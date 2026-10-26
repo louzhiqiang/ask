@@ -1,0 +1,2091 @@
+{
+ "meta": {
+  "author_replies_parenting": 2,
+  "platform_comment_total": 41178,
+  "classification_note": "关键词规则+笔记主题兜底+人工逐条复核覆盖；单一主标签",
+  "notes_total": 171,
+  "transcripts_nonempty": 171,
+  "comments_total": 1976,
+  "notes_with_comments": 158,
+  "zero_comment_notes": 13,
+  "top10_notes_comment_share": 10.1,
+  "noise": {
+   "noise_praise": 462,
+   "noise_chat": 256,
+   "noise_product": 73
+  },
+  "noise_pct": {
+   "noise_praise": 23.4,
+   "noise_chat": 13.0,
+   "noise_product": 3.7
+  },
+  "substantive": 1185,
+  "questions_total": 203,
+  "questions_substantive": 203,
+  "age_applicability_questions": 21,
+  "mention_own_elder": 152,
+  "envy_mentions": 81,
+  "author_replies": 23,
+  "author_replies_product": 21,
+  "elder_related": 130,
+  "excluded_from_views": [
+   1,
+   35,
+   42,
+   48,
+   63,
+   69,
+   104,
+   108,
+   114,
+   117,
+   123,
+   124,
+   125,
+   127,
+   133,
+   136,
+   141,
+   143,
+   148,
+   158,
+   159,
+   164,
+   165,
+   166,
+   167,
+   168,
+   169,
+   170,
+   171
+  ]
+ },
+ "themes": [
+  {
+   "key": "selfcare",
+   "theme": "放手与自理：少包办，让孩子参与家务",
+   "statement": "能让孩子自己做的事，大人不代劳；从小把孩子当作家庭生活的参与者，而不是被伺候的对象。",
+   "reasoning": "她（以婆婆为主角）认为小时候怕麻烦、替孩子做，会剥夺尝试机会，长大后的麻烦更大；在参与中孩子获得成就感和能力。",
+   "tips": [
+    "递碗、丢垃圾、擦桌子等小事直接交给孩子，大人“懒”一点",
+    "孩子弄撒了让他自己收拾，不骂、不替代",
+    "耐心等孩子慢慢做完，不因为慢而接手"
+   ],
+   "quotes": [
+    {
+     "note": 38,
+     "title": "小时候怕麻烦，长大了可能会有更大的麻烦",
+     "url": "https://www.xiaohongshu.com/explore/69de2af20000000021013bf5?xsec_token=ABPvNJfd9bVlUrlVGXaKLETTSndspQ-H0BS3tcF0g6YOU=&xsec_source=pc_user",
+     "text": "小的时候别怕麻烦。如果怕麻烦，剥夺了孩子很多尝试的机会，长大后的麻烦会更多会更大。",
+     "source": "文字稿"
+    },
+    {
+     "note": 18,
+     "title": "少帮孩子，她能自己成长",
+     "url": "https://www.xiaohongshu.com/explore/6a585e40000000000f01fc07?xsec_token=ABym4hgkwt54H59Bam9O4bIh1kFoY1KcBcKtB8aOwX90s=&xsec_source=pc_user",
+     "text": "我们可以站在孩子身后，但别永远站在他前面，不然他永远也不会长大。",
+     "source": "文字稿"
+    }
+   ],
+   "note_count": 21,
+   "total_likes": 218096,
+   "top_note": {
+    "index": 87,
+    "title": "给孩子去试错，有时候不帮忙就是“帮忙”",
+    "likes": 100000,
+    "likes_raw": "10万+",
+    "date": "2025-08-09",
+    "url": "https://www.xiaohongshu.com/explore/6897224b00000000250128ce?xsec_token=ABM7YbJgHncXzpHgeigz9kA4a5ymiMcKj9iupUgajgIrQ=&xsec_source=pc_user"
+   },
+   "notes": [
+    {
+     "index": 87,
+     "title": "给孩子去试错，有时候不帮忙就是“帮忙”",
+     "likes": 100000,
+     "likes_raw": "10万+",
+     "date": "2025-08-09",
+     "url": "https://www.xiaohongshu.com/explore/6897224b00000000250128ce?xsec_token=ABM7YbJgHncXzpHgeigz9kA4a5ymiMcKj9iupUgajgIrQ=&xsec_source=pc_user"
+    },
+    {
+     "index": 2,
+     "title": "我们一定要带孩子过真实的生活",
+     "likes": 74000,
+     "likes_raw": "7.4万",
+     "date": "2024-12-14",
+     "url": "https://www.xiaohongshu.com/explore/675b8f6b000000000700d874?xsec_token=AB6xC9bsEMClUs_YH57uIduuaQKWwOcvwrkWjN0lK63qA=&xsec_source=pc_user"
+    },
+    {
+     "index": 77,
+     "title": "懒娃也能变勤快的秘诀",
+     "likes": 15000,
+     "likes_raw": "1.5万",
+     "date": "2025-09-25",
+     "url": "https://www.xiaohongshu.com/explore/68d4a677000000001101c926?xsec_token=ABTx9HEPEX9cQscbheuVVExQJiOGZc9HySz2CxEo2y9jw=&xsec_source=pc_user"
+    },
+    {
+     "index": 56,
+     "title": "不要把孩子当成生活的中心",
+     "likes": 8952,
+     "likes_raw": "8952",
+     "date": "2026-01-12",
+     "url": "https://www.xiaohongshu.com/explore/6964dd220000000021032f0e?xsec_token=ABhjjil0_VYXnnRreRneC-QNHfbcqYG1VQduVBVhChLXg=&xsec_source=pc_user"
+    },
+    {
+     "index": 44,
+     "title": "为什么要让孩子做家务，是想告诉她",
+     "likes": 8844,
+     "likes_raw": "8844",
+     "date": "2026-03-14",
+     "url": "https://www.xiaohongshu.com/explore/69b54bb2000000001b0207fb?xsec_token=AB5yOCPcz3h5ocmT28SXkLEYak-CBeYJtNYXvl7kha8iY=&xsec_source=pc_user"
+    },
+    {
+     "index": 32,
+     "title": "从1岁开始做家务的小孩，现在怎么样了",
+     "likes": 2042,
+     "likes_raw": "2042",
+     "date": "2026-05-13",
+     "url": "https://www.xiaohongshu.com/explore/6a04513300000000360184bc?xsec_token=ABai6rAjXfg8O6elebn_kOjfegWpphjPT32fFLvFkTejw=&xsec_source=pc_user"
+    },
+    {
+     "index": 160,
+     "title": "婆婆带娃的那些松弛瞬间",
+     "likes": 1987,
+     "likes_raw": "1987",
+     "date": "2024-10-31",
+     "url": "https://www.xiaohongshu.com/explore/6722d55d000000001901b8f5?xsec_token=ABhwXUxsPANVeL7xsnSS10OqKt_5F4tkSOSMlqilXiIQA=&xsec_source=pc_user"
+    },
+    {
+     "index": 153,
+     "title": "我婆婆很会偷懒，她总说大人越懒",
+     "likes": 1520,
+     "likes_raw": "1520",
+     "date": "2024-11-21",
+     "url": "https://www.xiaohongshu.com/explore/673f1faa0000000007024dcd?xsec_token=ABZjxu_yE6N_vNJfNYTVkCnk4VvaMWgWTtiBGgBjklVcY=&xsec_source=pc_user"
+    },
+    {
+     "index": 67,
+     "title": "我们常常把问题和孩子隔离开，总习惯替他",
+     "likes": 1319,
+     "likes_raw": "1319",
+     "date": "2025-11-16",
+     "url": "https://www.xiaohongshu.com/explore/691995da000000000501283a?xsec_token=ABdFKnDRJrIZ0u_zgvxwsigLmYdcFOi_aV8yrd-FFwozo=&xsec_source=pc_user"
+    },
+    {
+     "index": 29,
+     "title": "很佩服我婆婆能这样帮我带娃",
+     "likes": 1039,
+     "likes_raw": "1039",
+     "date": "2026-05-21",
+     "url": "https://www.xiaohongshu.com/explore/6a0e7fe400000000080002fe?xsec_token=ABwEZiQXzN1mvL3H7GEi1aheZD4Qouuko9XVMQQzUiW4Q=&xsec_source=pc_user"
+    },
+    {
+     "index": 99,
+     "title": "独立的人格和充分的爱，是对她最好的托举",
+     "likes": 957,
+     "likes_raw": "957",
+     "date": "2025-06-26",
+     "url": "https://www.xiaohongshu.com/explore/685d3440000000000d019ecc?xsec_token=AB4COC73J49Y2QD5erCleXjjQG0fqg3wdpQzWfQmchRxA=&xsec_source=pc_user"
+    },
+    {
+     "index": 80,
+     "title": "因为我婆婆太懒，让我们收获了这样一个小孩",
+     "likes": 659,
+     "likes_raw": "659",
+     "date": "2025-09-10",
+     "url": "https://www.xiaohongshu.com/explore/68c13940000000001c03e74b?xsec_token=ABXZgY2Py6VVgiTlyypgYlfkmXYTvtcPhP6TVSdJLxyhQ=&xsec_source=pc_user"
+    },
+    {
+     "index": 17,
+     "title": "从幼儿园回来越来越懒，怎么套路她！？",
+     "likes": 497,
+     "likes_raw": "497",
+     "date": "2026-07-17",
+     "url": "https://www.xiaohongshu.com/explore/6a585fa3000000000f01c0d1?xsec_token=ABym4hgkwt54H59Bam9O4bIgLXqdYNAFJ6jmkwd86YpVw=&xsec_source=pc_user"
+    },
+    {
+     "index": 65,
+     "title": "我婆婆就很会拿捏我女儿",
+     "likes": 398,
+     "likes_raw": "398",
+     "date": "2025-11-19",
+     "url": "https://www.xiaohongshu.com/explore/691dba83000000001d03e1b4?xsec_token=ABOwwZb2ez6UyjnjfDlcv_262m9KflRPqpr5lBk-orn0w=&xsec_source=pc_user"
+    },
+    {
+     "index": 38,
+     "title": "小时候怕麻烦，长大了可能会有更大的麻烦",
+     "likes": 278,
+     "likes_raw": "278",
+     "date": "2026-04-14",
+     "url": "https://www.xiaohongshu.com/explore/69de2af20000000021013bf5?xsec_token=ABPvNJfd9bVlUrlVGXaKLETTSndspQ-H0BS3tcF0g6YOU=&xsec_source=pc_user"
+    },
+    {
+     "index": 40,
+     "title": "在孩子面前，装，才是第一生产力",
+     "likes": 206,
+     "likes_raw": "206",
+     "date": "2026-04-03",
+     "url": "https://www.xiaohongshu.com/explore/69cf907b000000002202573e?xsec_token=ABJmzPi85nzEiT3Axy8pi6iRADiN5eW3A6QbOnSLxXmQY=&xsec_source=pc_user"
+    },
+    {
+     "index": 146,
+     "title": "没有被干涉的童年可以有多幸福",
+     "likes": 142,
+     "likes_raw": "142",
+     "date": "2024-12-04",
+     "url": "https://www.xiaohongshu.com/explore/674fb943000000000202fc96?xsec_token=ABBuvA5K6IN4OAnpmqqgU9s1do_hVdSzdDYSxz3Lu0wHk=&xsec_source=pc_user"
+    },
+    {
+     "index": 18,
+     "title": "少帮孩子，她能自己成长",
+     "likes": 112,
+     "likes_raw": "112",
+     "date": "2026-07-16",
+     "url": "https://www.xiaohongshu.com/explore/6a585e40000000000f01fc07?xsec_token=ABym4hgkwt54H59Bam9O4bIh1kFoY1KcBcKtB8aOwX90s=&xsec_source=pc_user"
+    },
+    {
+     "index": 6,
+     "title": "长期被这样养大的孩子反而更独立",
+     "likes": 51,
+     "likes_raw": "51",
+     "date": "2026-10-10",
+     "url": "https://www.xiaohongshu.com/explore/6ac9f6e80000000015000f3b?xsec_token=ABDwp6ms1t9zmiFhHIqlo69WItjHJdkHwcDTSjdZY4BnQ=&xsec_source=pc_user"
+    },
+    {
+     "index": 150,
+     "title": "两岁不仅没有想象中的可怕",
+     "likes": 51,
+     "likes_raw": "51",
+     "date": "2024-11-27",
+     "url": "https://www.xiaohongshu.com/explore/674676510000000007025695?xsec_token=ABB3G3mFGNoKFRImupNPm5bsWi_C_cEkmNNsXXipIlma4=&xsec_source=pc_user"
+    },
+    {
+     "index": 121,
+     "title": "如果想要省心的小孩，就要当偷懒的父母",
+     "likes": 42,
+     "likes_raw": "42",
+     "date": "2025-02-21",
+     "url": "https://www.xiaohongshu.com/explore/67b7e1a00000000029028d2b?xsec_token=ABq0xmOqEI74cHhmqq9ynjMYb_6m6F4CDD4ORIoTeVDnI=&xsec_source=pc_user"
+    }
+   ]
+  },
+  {
+   "key": "consequence",
+   "theme": "自然后果与试错",
+   "statement": "在安全范围内让孩子体验选择的后果（湿裙子、迟到），大人兜底但不替他决定。",
+   "reasoning": "说教没用时，亲身体验一次比反复催促有效；大人只需准备好兜底。",
+   "tips": [
+    "孩子坚持穿不合适的衣服时，带上备用的，让他体验后自己换",
+    "磨蹭导致迟到，让老师的反馈代替家长催促",
+    "事后不说“我早就告诉过你”"
+   ],
+   "quotes": [
+    {
+     "note": 43,
+     "title": "我从婆婆身上学到了正确的沟通方式",
+     "url": "https://www.xiaohongshu.com/explore/69c504d3000000002100483b?xsec_token=ABHJ5APlbOEmQpc_0anaCOmbVupdFCQX6HwTGuoZvanDk=&xsec_source=pc_user",
+     "text": "我们可以给他兜底，但永远不能替他做决定。",
+     "source": "文字稿"
+    },
+    {
+     "note": 53,
+     "title": "带娃的路上，我总怀疑婆婆有点过于松弛了",
+     "url": "https://www.xiaohongshu.com/explore/697333d2000000001a02f080?xsec_token=ABATlNb-YBxyIqY3WI-FsfBifmVuUnf4OlWPQXO6jJ3MM=&xsec_source=pc_user",
+     "text": "干脆就由着他去吧，还是想玩就让他玩，让他迟到一次。",
+     "source": "文字稿"
+    }
+   ],
+   "note_count": 6,
+   "total_likes": 117033,
+   "top_note": {
+    "index": 102,
+    "title": "婆婆带娃的标准是，自己轻松的前提下",
+    "likes": 66000,
+    "likes_raw": "6.6万",
+    "date": "2025-06-10",
+    "url": "https://www.xiaohongshu.com/explore/6848437c000000000303fd13?xsec_token=ABxg-OWArrwwj4OVX3XJyAaESxeenkIpntSJfDOpdEqJg=&xsec_source=pc_user"
+   },
+   "notes": [
+    {
+     "index": 102,
+     "title": "婆婆带娃的标准是，自己轻松的前提下",
+     "likes": 66000,
+     "likes_raw": "6.6万",
+     "date": "2025-06-10",
+     "url": "https://www.xiaohongshu.com/explore/6848437c000000000303fd13?xsec_token=ABxg-OWArrwwj4OVX3XJyAaESxeenkIpntSJfDOpdEqJg=&xsec_source=pc_user"
+    },
+    {
+     "index": 30,
+     "title": "犟种孩子不听劝，我决定让她自己体验一下",
+     "likes": 33000,
+     "likes_raw": "3.3万",
+     "date": "2026-05-19",
+     "url": "https://www.xiaohongshu.com/explore/6a0bc60b0000000007029185?xsec_token=AB_ROcfeCKjTsXfmHgvtl9EGgX78MIKl5uSaScNa2HXYU=&xsec_source=pc_user"
+    },
+    {
+     "index": 43,
+     "title": "我从婆婆身上学到了正确的沟通方式",
+     "likes": 15000,
+     "likes_raw": "1.5万",
+     "date": "2026-03-26",
+     "url": "https://www.xiaohongshu.com/explore/69c504d3000000002100483b?xsec_token=ABHJ5APlbOEmQpc_0anaCOmbVupdFCQX6HwTGuoZvanDk=&xsec_source=pc_user"
+    },
+    {
+     "index": 53,
+     "title": "带娃的路上，我总怀疑婆婆有点过于松弛了",
+     "likes": 2736,
+     "likes_raw": "2736",
+     "date": "2026-01-23",
+     "url": "https://www.xiaohongshu.com/explore/697333d2000000001a02f080?xsec_token=ABATlNb-YBxyIqY3WI-FsfBifmVuUnf4OlWPQXO6jJ3MM=&xsec_source=pc_user"
+    },
+    {
+     "index": 27,
+     "title": "让孩子学着自己长大",
+     "likes": 234,
+     "likes_raw": "234",
+     "date": "2026-06-01",
+     "url": "https://www.xiaohongshu.com/explore/6a1d7bff0000000035033243?xsec_token=AB3yoTZpX0nMsJTjX0vfNaGHjbnZiGyKPVDXsQwrkwWNA=&xsec_source=pc_user"
+    },
+    {
+     "index": 131,
+     "title": "有一种煎熬叫娃生病……",
+     "likes": 63,
+     "likes_raw": "63",
+     "date": "2025-01-20",
+     "url": "https://www.xiaohongshu.com/explore/678dbfa6000000001900013a?xsec_token=ABJ6iOthGaJlTtuhpbsxa9vULqRgRKczv8GAigJi8tRbI=&xsec_source=pc_user"
+    }
+   ]
+  },
+  {
+   "key": "self",
+   "theme": "大人先照顾好自己，不围着孩子转",
+   "statement": "让孩子融入大人的生活，而不是全家围着孩子转；大人累了可以直说、拒绝。",
+   "reasoning": "一味牺牲是自我感动，还会带着怨气；先照顾好自己，才有稳定的能量爱孩子。",
+   "tips": [
+    "带孩子做大人喜欢的事（爬山、踢毽子）",
+    "累了直接告诉孩子“妈妈需要休息”",
+    "吃饭各吃各的，不追着喂、不夹菜"
+   ],
+   "quotes": [
+    {
+     "note": 88,
+     "title": "亲身体会，不要把的劲都用在孩子身上",
+     "url": "https://www.xiaohongshu.com/explore/6893480b0000000025019cec?xsec_token=AB2KVLsesg1YjnRStPnsAEBNgstvFyLwxJ0Fai84rJWi4=&xsec_source=pc_user",
+     "text": "先照顾好自己，才有稳定的能量，去好好爱她。",
+     "source": "文字稿"
+    },
+    {
+     "note": 37,
+     "title": "不围着孩子转，我们彼此都能更轻松自在",
+     "url": "https://www.xiaohongshu.com/explore/69e60ebd000000001a023bd8?xsec_token=ABn8aWFqQayDcBy2GWGr9aTRuNBf_ReoqYQwl40r_HOsc=&xsec_source=pc_user",
+     "text": "其实这更像是一种打着爱的名义，剥夺孩子自己成长的自由。",
+     "source": "文字稿"
+    },
+    {
+     "note": 86,
+     "title": "婆婆带孩子的宗旨是，先是自己，才是孩子",
+     "url": "https://www.xiaohongshu.com/explore/689aa161000000002501a971?xsec_token=ABnIVpTekeu-nm0F-knKDZ2S-HiJfWjYsEFZcjZhT2iYI=&xsec_source=pc_user",
+     "text": "先是自己才是孩子",
+     "source": "文字稿"
+    }
+   ],
+   "note_count": 9,
+   "total_likes": 98898,
+   "top_note": {
+    "index": 102,
+    "title": "婆婆带娃的标准是，自己轻松的前提下",
+    "likes": 66000,
+    "likes_raw": "6.6万",
+    "date": "2025-06-10",
+    "url": "https://www.xiaohongshu.com/explore/6848437c000000000303fd13?xsec_token=ABxg-OWArrwwj4OVX3XJyAaESxeenkIpntSJfDOpdEqJg=&xsec_source=pc_user"
+   },
+   "notes": [
+    {
+     "index": 102,
+     "title": "婆婆带娃的标准是，自己轻松的前提下",
+     "likes": 66000,
+     "likes_raw": "6.6万",
+     "date": "2025-06-10",
+     "url": "https://www.xiaohongshu.com/explore/6848437c000000000303fd13?xsec_token=ABxg-OWArrwwj4OVX3XJyAaESxeenkIpntSJfDOpdEqJg=&xsec_source=pc_user"
+    },
+    {
+     "index": 86,
+     "title": "婆婆带孩子的宗旨是，先是自己，才是孩子",
+     "likes": 14000,
+     "likes_raw": "1.4万",
+     "date": "2025-08-12",
+     "url": "https://www.xiaohongshu.com/explore/689aa161000000002501a971?xsec_token=ABnIVpTekeu-nm0F-knKDZ2S-HiJfWjYsEFZcjZhT2iYI=&xsec_source=pc_user"
+    },
+    {
+     "index": 56,
+     "title": "不要把孩子当成生活的中心",
+     "likes": 8952,
+     "likes_raw": "8952",
+     "date": "2026-01-12",
+     "url": "https://www.xiaohongshu.com/explore/6964dd220000000021032f0e?xsec_token=ABhjjil0_VYXnnRreRneC-QNHfbcqYG1VQduVBVhChLXg=&xsec_source=pc_user"
+    },
+    {
+     "index": 93,
+     "title": "我婆婆绝对不会让她自己累着",
+     "likes": 3165,
+     "likes_raw": "3165",
+     "date": "2025-07-19",
+     "url": "https://www.xiaohongshu.com/explore/687b7c880000000023007c33?xsec_token=ABqzgAh5F0jhTj_uni-MCF3jGqVaFZDeyBARttXPdregE=&xsec_source=pc_user"
+    },
+    {
+     "index": 126,
+     "title": "养娃这件事，谁负责，责任就会流向谁",
+     "likes": 2678,
+     "likes_raw": "2678",
+     "date": "2025-01-25",
+     "url": "https://www.xiaohongshu.com/explore/67931ed00000000018012152?xsec_token=ABE69VP9IvZaX25jF4oqU8r8vk9fO9oPAZU1tSEzvzCcY=&xsec_source=pc_user"
+    },
+    {
+     "index": 37,
+     "title": "不围着孩子转，我们彼此都能更轻松自在",
+     "likes": 1979,
+     "likes_raw": "1979",
+     "date": "2026-04-20",
+     "url": "https://www.xiaohongshu.com/explore/69e60ebd000000001a023bd8?xsec_token=ABn8aWFqQayDcBy2GWGr9aTRuNBf_ReoqYQwl40r_HOsc=&xsec_source=pc_user"
+    },
+    {
+     "index": 78,
+     "title": "爱的边界是尊重、信任和自由",
+     "likes": 1485,
+     "likes_raw": "1485",
+     "date": "2025-09-24",
+     "url": "https://www.xiaohongshu.com/explore/68d3b9e70000000012016410?xsec_token=ABYpKEQcjJF9HGrJN-th1y6zMn1qfrl_N7o0r1IB-NrQk=&xsec_source=pc_user"
+    },
+    {
+     "index": 88,
+     "title": "亲身体会，不要把的劲都用在孩子身上",
+     "likes": 343,
+     "likes_raw": "343",
+     "date": "2025-08-06",
+     "url": "https://www.xiaohongshu.com/explore/6893480b0000000025019cec?xsec_token=AB2KVLsesg1YjnRStPnsAEBNgstvFyLwxJ0Fai84rJWi4=&xsec_source=pc_user"
+    },
+    {
+     "index": 46,
+     "title": "带孩子的苦，我婆婆是坚决不吃的",
+     "likes": 296,
+     "likes_raw": "296",
+     "date": "2026-03-06",
+     "url": "https://www.xiaohongshu.com/explore/69aaa4d30000000015032a1d?xsec_token=ABjOSoexSXNELr_mQJvfR0NrduukcPo7nFbY2_7hBzvCU=&xsec_source=pc_user"
+    }
+   ]
+  },
+  {
+   "key": "company",
+   "theme": "不打扰：专注力与独立玩耍",
+   "statement": "孩子专注玩时大人退后观察，除非孩子邀请，否则不打断。",
+   "reasoning": "她认为专注力不是训练出来的，而是在不被打扰的环境里长出来的；频繁逗弄、递水、叫停会切断孩子的探索。",
+   "tips": [
+    "孩子玩时坐在后面看，不插话、不递东西、不叫停",
+    "孩子主动找你时再回应",
+    "把玩具、绘本放在固定位置，让孩子随手自由拿取"
+   ],
+   "quotes": [
+    {
+     "note": 21,
+     "title": "孩子的专注力和想象力，不是被教育出来的",
+     "url": "https://www.xiaohongshu.com/explore/6a4780f7000000000f0280a4?xsec_token=AB6JQCysxuexPuub_qgXLUsajUwt6xQcrpnnz3qb0LEUQ=&xsec_source=pc_user",
+     "text": "除非孩子邀请，否则不要去打扰孩子。",
+     "source": "文字稿"
+    },
+    {
+     "note": 47,
+     "title": "很多人帮忙带孩子，但是我反而更累了",
+     "url": "https://www.xiaohongshu.com/explore/69a42674000000002303a860?xsec_token=ABWe6Cfld9Xa2gmDNdYZg9b9xyVaLeDwA5-aDlZc0pHFY=&xsec_source=pc_user",
+     "text": "专注不是被训练出来的，是在不被打扰的环境里面慢慢长出来的。",
+     "source": "文字稿"
+    }
+   ],
+   "note_count": 9,
+   "total_likes": 93261,
+   "top_note": {
+    "index": 103,
+    "title": "为什么我婆婆带娃很轻松，因为她很会装..",
+    "likes": 45000,
+    "likes_raw": "4.5万",
+    "date": "2025-05-22",
+    "url": "https://www.xiaohongshu.com/explore/682e92d1000000000f039ce1?xsec_token=ABCmiXFaSAxoQUd-tAZQJPreKdu4ZrRmAZOAU17RzI51E=&xsec_source=pc_user"
+   },
+   "notes": [
+    {
+     "index": 103,
+     "title": "为什么我婆婆带娃很轻松，因为她很会装..",
+     "likes": 45000,
+     "likes_raw": "4.5万",
+     "date": "2025-05-22",
+     "url": "https://www.xiaohongshu.com/explore/682e92d1000000000f039ce1?xsec_token=ABCmiXFaSAxoQUd-tAZQJPreKdu4ZrRmAZOAU17RzI51E=&xsec_source=pc_user"
+    },
+    {
+     "index": 90,
+     "title": "“不打扰”就是最好的陪伴",
+     "likes": 37000,
+     "likes_raw": "3.7万",
+     "date": "2025-07-30",
+     "url": "https://www.xiaohongshu.com/explore/688a061b000000002302397d?xsec_token=AB-1HOZFpkhDVIzAZx35VmE5yUagvsDsDryrLlGdk7ObE=&xsec_source=pc_user"
+    },
+    {
+     "index": 138,
+     "title": "老人带娃，都是以爱之名的骄纵与溺爱吗？",
+     "likes": 5948,
+     "likes_raw": "5948",
+     "date": "2024-12-31",
+     "url": "https://www.xiaohongshu.com/explore/6773b346000000001300b3db?xsec_token=ABc55aFnaS_-osxZiUpufEDTGQqH2499blcMJH8O8V-lI=&xsec_source=pc_user"
+    },
+    {
+     "index": 21,
+     "title": "孩子的专注力和想象力，不是被教育出来的",
+     "likes": 1973,
+     "likes_raw": "1973",
+     "date": "2026-07-05",
+     "url": "https://www.xiaohongshu.com/explore/6a4780f7000000000f0280a4?xsec_token=AB6JQCysxuexPuub_qgXLUsajUwt6xQcrpnnz3qb0LEUQ=&xsec_source=pc_user"
+    },
+    {
+     "index": 76,
+     "title": "有一个这样的老人带娃，专注力很难不好",
+     "likes": 1535,
+     "likes_raw": "1535",
+     "date": "2025-10-11",
+     "url": "https://www.xiaohongshu.com/explore/68e917de000000000700b8bf?xsec_token=ABK-zcdTFbDkj4VtRzoSz9YOUoAN5ILOu8Svcrmnfaxdc=&xsec_source=pc_user"
+    },
+    {
+     "index": 68,
+     "title": "再多的带娃技巧都不如一个方法有效",
+     "likes": 1140,
+     "likes_raw": "1140",
+     "date": "2025-11-11",
+     "url": "https://www.xiaohongshu.com/explore/69129dd0000000000503891c?xsec_token=ABxcn7NV32llJYVQvXON6lLqO9vqfXYk7TjaezDv8OQvg=&xsec_source=pc_user"
+    },
+    {
+     "index": 47,
+     "title": "很多人帮忙带孩子，但是我反而更累了",
+     "likes": 327,
+     "likes_raw": "327",
+     "date": "2026-03-01",
+     "url": "https://www.xiaohongshu.com/explore/69a42674000000002303a860?xsec_token=ABWe6Cfld9Xa2gmDNdYZg9b9xyVaLeDwA5-aDlZc0pHFY=&xsec_source=pc_user"
+    },
+    {
+     "index": 41,
+     "title": "是什么时候开始意识到孩子开始独立思考了呢",
+     "likes": 276,
+     "likes_raw": "276",
+     "date": "2026-04-01",
+     "url": "https://www.xiaohongshu.com/explore/69cb89f4000000002800bba7?xsec_token=AB8BH71eysKhnKgGXSzuDKDHq_tppXAC87iN98c7bor-k=&xsec_source=pc_user"
+    },
+    {
+     "index": 152,
+     "title": "不看电视不看手机，让2岁宝宝养成好习惯",
+     "likes": 62,
+     "likes_raw": "62",
+     "date": "2024-11-25",
+     "url": "https://www.xiaohongshu.com/explore/67442a030000000007038ae5?xsec_token=ABZF7-R8MzHNnEjEWwMRUpq9mfN733mccninbADzwiIzg=&xsec_source=pc_user"
+    }
+   ]
+  },
+  {
+   "key": "life",
+   "theme": "真实生活即课堂与早期启蒙/阅读",
+   "statement": "带孩子参与买菜、办事、交际等真实生活，比关在书本和游乐场里更能学到东西；阅读靠环境和陪读。",
+   "reasoning": "孩子在具体、可参与的生活里理解社会怎么运转，知识在日常中自然积累。",
+   "tips": [
+    "出门办事带上孩子，看到什么说什么",
+    "让孩子跟服务员要打包袋、自己买水",
+    "固定亲子阅读时间，读错时让孩子纠正"
+   ],
+   "quotes": [
+    {
+     "note": 77,
+     "title": "懒娃也能变勤快的秘诀",
+     "url": "https://www.xiaohongshu.com/explore/68d4a677000000001101c926?xsec_token=ABTx9HEPEX9cQscbheuVVExQJiOGZc9HySz2CxEo2y9jw=&xsec_source=pc_user",
+     "text": "生活本身就是一件巨大的教室",
+     "source": "文字稿"
+    },
+    {
+     "note": 59,
+     "title": "孩子的世界，每天都是崭新的",
+     "url": "https://www.xiaohongshu.com/explore/6947e4a7000000001f00bb69?xsec_token=ABWa7Yt6sJUJIarO54XYhmBSOKHZ-BZpM7VY9w3z10b7c=&xsec_source=pc_user",
+     "text": "生活对他而言，不是抽象的概念，是具体的、可参与的。",
+     "source": "文字稿"
+    }
+   ],
+   "note_count": 15,
+   "total_likes": 91354,
+   "top_note": {
+    "index": 2,
+    "title": "我们一定要带孩子过真实的生活",
+    "likes": 74000,
+    "likes_raw": "7.4万",
+    "date": "2024-12-14",
+    "url": "https://www.xiaohongshu.com/explore/675b8f6b000000000700d874?xsec_token=AB6xC9bsEMClUs_YH57uIduuaQKWwOcvwrkWjN0lK63qA=&xsec_source=pc_user"
+   },
+   "notes": [
+    {
+     "index": 2,
+     "title": "我们一定要带孩子过真实的生活",
+     "likes": 74000,
+     "likes_raw": "7.4万",
+     "date": "2024-12-14",
+     "url": "https://www.xiaohongshu.com/explore/675b8f6b000000000700d874?xsec_token=AB6xC9bsEMClUs_YH57uIduuaQKWwOcvwrkWjN0lK63qA=&xsec_source=pc_user"
+    },
+    {
+     "index": 74,
+     "title": "十万个为什么问不停的宝宝，应该怎么面对？",
+     "likes": 5451,
+     "likes_raw": "5451",
+     "date": "2025-10-15",
+     "url": "https://www.xiaohongshu.com/explore/68efa3360000000005032103?xsec_token=ABlcgbN9yEcPPZ3QcOEbKtLVY5JNy7WuqF8R5JD36EAqM=&xsec_source=pc_user"
+    },
+    {
+     "index": 64,
+     "title": "带孩子的轻松在于“不教育”",
+     "likes": 3930,
+     "likes_raw": "3930",
+     "date": "2025-11-22",
+     "url": "https://www.xiaohongshu.com/explore/692198da000000001e039491?xsec_token=AB0x7c2elzDs0LDd2JZ5HhL5-J9UzHL8hsp-mTFiqvcio=&xsec_source=pc_user"
+    },
+    {
+     "index": 59,
+     "title": "孩子的世界，每天都是崭新的",
+     "likes": 2837,
+     "likes_raw": "2837",
+     "date": "2025-12-21",
+     "url": "https://www.xiaohongshu.com/explore/6947e4a7000000001f00bb69?xsec_token=ABWa7Yt6sJUJIarO54XYhmBSOKHZ-BZpM7VY9w3z10b7c=&xsec_source=pc_user"
+    },
+    {
+     "index": 112,
+     "title": "这是一条关于奶奶如何培养出一个书虫的视频",
+     "likes": 1829,
+     "likes_raw": "1829",
+     "date": "2025-03-15",
+     "url": "https://www.xiaohongshu.com/explore/67d561cc000000000b017f18?xsec_token=ABK9Dw_H-Z-5Pfnx9xbIFYkMbCrKqzN6XvLsgONbIO3qQ=&xsec_source=pc_user"
+    },
+    {
+     "index": 151,
+     "title": "老一辈人带娃都不靠谱吗？",
+     "likes": 1437,
+     "likes_raw": "1437",
+     "date": "2024-11-26",
+     "url": "https://www.xiaohongshu.com/explore/6745282d0000000007029f77?xsec_token=ABxPe2aK0FCAp_oJhlohf_UnWMzOzSvsceS0JOCpNQpvc=&xsec_source=pc_user"
+    },
+    {
+     "index": 49,
+     "title": "原来我们感受到的年味是有人精心为你准备的",
+     "likes": 854,
+     "likes_raw": "854",
+     "date": "2026-02-14",
+     "url": "https://www.xiaohongshu.com/explore/69905f85000000001d024632?xsec_token=AB_UscQ6v8ttpcJ5NWVGHl5KxDHNygrz4G3YmJ3c2Kfgk=&xsec_source=pc_user"
+    },
+    {
+     "index": 100,
+     "title": "有人问：长期看书对孩子有没有坏处？！",
+     "likes": 296,
+     "likes_raw": "296",
+     "date": "2025-06-18",
+     "url": "https://www.xiaohongshu.com/explore/68527d08000000000b02d96f?xsec_token=ABBpoWJft8_Q4kyJftK49kcJZBLXR84WNNufJNUaoVDHE=&xsec_source=pc_user"
+    },
+    {
+     "index": 14,
+     "title": "带孩子过真实的生活，见真实的人",
+     "likes": 202,
+     "likes_raw": "202",
+     "date": "2026-08-10",
+     "url": "https://www.xiaohongshu.com/explore/6a79b77a0000000005028084?xsec_token=ABSbJp8A9FEvcbCuk3amuStkfcKDuI4yw3vXUCgn7wKf0=&xsec_source=pc_user"
+    },
+    {
+     "index": 31,
+     "title": "总有些普通但有效启蒙方法",
+     "likes": 199,
+     "likes_raw": "199",
+     "date": "2026-05-15",
+     "url": "https://www.xiaohongshu.com/explore/6a06dfe50000000035029e9d?xsec_token=AB3nwrmWUg4JL3Wdc2p_h_Hd_D7IzIyV1ArLvjkm4oBbI=&xsec_source=pc_user"
+    },
+    {
+     "index": 154,
+     "title": "我婆婆一个60后，养娃真的很有一套",
+     "likes": 75,
+     "likes_raw": "75",
+     "date": "2024-11-21",
+     "url": "https://www.xiaohongshu.com/explore/673e9360000000000702678d?xsec_token=ABtFBuYBPyeeNepkJvUbw2-SFYHnCInj9A6NWcIRrmYyc=&xsec_source=pc_user"
+    },
+    {
+     "index": 128,
+     "title": "信我！看多了绘本，孩子会变得很好带",
+     "likes": 75,
+     "likes_raw": "75",
+     "date": "2025-01-23",
+     "url": "https://www.xiaohongshu.com/explore/679195c2000000002a00f309?xsec_token=ABGKnWGc9mIsTug9ZCmjudpf71jgqFQRDNXY3g6Vdrhhs=&xsec_source=pc_user"
+    },
+    {
+     "index": 110,
+     "title": "被宝子们催了很多次的绘本分享来啦",
+     "likes": 60,
+     "likes_raw": "60",
+     "date": "2025-03-20",
+     "url": "https://www.xiaohongshu.com/explore/67db8203000000001e000a02?xsec_token=ABGuK51mgyUPIWxBHltnt6LblM1hTwWT8ruRApCpPZO4s=&xsec_source=pc_user"
+    },
+    {
+     "index": 142,
+     "title": "有一个很抠门的婆婆",
+     "likes": 57,
+     "likes_raw": "57",
+     "date": "2024-12-19",
+     "url": "https://www.xiaohongshu.com/explore/676372470000000009015c9b?xsec_token=ABxHDKidTcocKwWWD8IbNHR38IKNqUIFkPAKVnnylHiuo=&xsec_source=pc_user"
+    },
+    {
+     "index": 3,
+     "title": "先观世界，再有世界观",
+     "likes": 52,
+     "likes_raw": "52",
+     "date": "2026-10-23",
+     "url": "https://www.xiaohongshu.com/explore/6adace1a000000002c00e15f?xsec_token=ABPffvx3b-UO3tnOD0ajTOk3TQ3WBRoNzcA2Ut7bZ5cBM=&xsec_source=pc_user"
+    }
+   ]
+  },
+  {
+   "key": "nature",
+   "theme": "大自然、低成本与“瞎玩”",
+   "statement": "孩子不需要网红景点“见世面”，河滩、田埂、公园就是最好的游乐场。",
+   "reasoning": "孩子在意的不是去哪儿，而是能不能玩泥巴、捡石头；按孩子的方式出行，大人也更轻松。",
+   "tips": [
+    "出行分时段：半天大人的行程，半天孩子的",
+    "优先选择能玩水玩沙的自然场地",
+    "不追求每次出门都“有意义”"
+   ],
+   "quotes": [
+    {
+     "note": 92,
+     "title": "这个世界有很多面，高楼大厦是一面",
+     "url": "https://www.xiaohongshu.com/explore/6882161a000000001d00f923?xsec_token=ABldpXP0o7Dtsnm84gB3mNyAYQTD5Ojj7igOKXqF7JALk=&xsec_source=pc_user",
+     "text": "原来，孩子在意的根本不是去哪儿玩，也不是玩什么。",
+     "source": "文字稿"
+    },
+    {
+     "note": 13,
+     "title": "暑期带孩子出门不累的秘诀",
+     "url": "https://www.xiaohongshu.com/explore/6a85839c0000000025003b8e?xsec_token=ABtv-ufijnsvVxKRW9FcrMKZ-TQWqkK-0Z-MK_N7nJGpM=&xsec_source=pc_user",
+     "text": "咱就当是一次普通的遛弯。",
+     "source": "文字稿"
+    }
+   ],
+   "note_count": 14,
+   "total_likes": 79672,
+   "top_note": {
+    "index": 34,
+    "title": "孩子不需要见世面，他们有自己的度假方式",
+    "likes": 33000,
+    "likes_raw": "3.3万",
+    "date": "2026-05-04",
+    "url": "https://www.xiaohongshu.com/explore/69f88605000000003502b91d?xsec_token=AB1DTfTCVEerr28pTdxeYYA-R5WO7LfLx3ln4kPJ0oSsk=&xsec_source=pc_user"
+   },
+   "notes": [
+    {
+     "index": 34,
+     "title": "孩子不需要见世面，他们有自己的度假方式",
+     "likes": 33000,
+     "likes_raw": "3.3万",
+     "date": "2026-05-04",
+     "url": "https://www.xiaohongshu.com/explore/69f88605000000003502b91d?xsec_token=AB1DTfTCVEerr28pTdxeYYA-R5WO7LfLx3ln4kPJ0oSsk=&xsec_source=pc_user"
+    },
+    {
+     "index": 13,
+     "title": "暑期带孩子出门不累的秘诀",
+     "likes": 26000,
+     "likes_raw": "2.6万",
+     "date": "2026-08-19",
+     "url": "https://www.xiaohongshu.com/explore/6a85839c0000000025003b8e?xsec_token=ABtv-ufijnsvVxKRW9FcrMKZ-TQWqkK-0Z-MK_N7nJGpM=&xsec_source=pc_user"
+    },
+    {
+     "index": 72,
+     "title": "监控下的一幕，诠释了高质量陪伴的意义",
+     "likes": 6829,
+     "likes_raw": "6829",
+     "date": "2025-10-20",
+     "url": "https://www.xiaohongshu.com/explore/68f619ac000000000401102a?xsec_token=ABHbCvwP0ZughLJAaEZd260uhPtZmCThlkRzDxzueNXA0=&xsec_source=pc_user"
+    },
+    {
+     "index": 61,
+     "title": "一根枯树枝彻底治好了我的育儿焦虑",
+     "likes": 4077,
+     "likes_raw": "4077",
+     "date": "2025-12-14",
+     "url": "https://www.xiaohongshu.com/explore/693eb454000000001e0227af?xsec_token=AB9B6AY7HTpIMZdwZI35yD19M8TMKaset4-Luuv5ITSK4=&xsec_source=pc_user"
+    },
+    {
+     "index": 93,
+     "title": "我婆婆绝对不会让她自己累着",
+     "likes": 3165,
+     "likes_raw": "3165",
+     "date": "2025-07-19",
+     "url": "https://www.xiaohongshu.com/explore/687b7c880000000023007c33?xsec_token=ABqzgAh5F0jhTj_uni-MCF3jGqVaFZDeyBARttXPdregE=&xsec_source=pc_user"
+    },
+    {
+     "index": 130,
+     "title": "无痛带娃",
+     "likes": 2797,
+     "likes_raw": "2797",
+     "date": "2025-01-22",
+     "url": "https://www.xiaohongshu.com/explore/67905b980000000029015f8e?xsec_token=ABi2tDdZa-G5Rr4uvoxEy3S0OA_329pfyJ58u6ztu3_ec=&xsec_source=pc_user"
+    },
+    {
+     "index": 95,
+     "title": "孩子回老家后，我突然不焦虑了",
+     "likes": 2665,
+     "likes_raw": "2665",
+     "date": "2025-07-07",
+     "url": "https://www.xiaohongshu.com/explore/686bb4a2000000001203217b?xsec_token=AB10RSQX8aSnKTNrCUbqdxQlrp5yrvKeMLbMwHJhX_rAs=&xsec_source=pc_user"
+    },
+    {
+     "index": 79,
+     "title": "带娃轻松的秘诀，把她丢到大自然里",
+     "likes": 538,
+     "likes_raw": "538",
+     "date": "2025-09-15",
+     "url": "https://www.xiaohongshu.com/explore/68c788ff000000001c03fcd5?xsec_token=ABpaRwUVoeLiyDm0aQl6AHjL9qaHUQDnH_46vhYHnH62I=&xsec_source=pc_user"
+    },
+    {
+     "index": 91,
+     "title": "我发现回老家养娃才是低成本育儿的天花板",
+     "likes": 181,
+     "likes_raw": "181",
+     "date": "2025-07-27",
+     "url": "https://www.xiaohongshu.com/explore/688606670000000012030bca?xsec_token=AB6b63huOzKFYKr8yWfDMi4PIQhv0WHIwtAqLQok4hUtE=&xsec_source=pc_user"
+    },
+    {
+     "index": 92,
+     "title": "这个世界有很多面，高楼大厦是一面",
+     "likes": 133,
+     "likes_raw": "133",
+     "date": "2025-07-24",
+     "url": "https://www.xiaohongshu.com/explore/6882161a000000001d00f923?xsec_token=ABldpXP0o7Dtsnm84gB3mNyAYQTD5Ojj7igOKXqF7JALk=&xsec_source=pc_user"
+    },
+    {
+     "index": 149,
+     "title": "普通家庭低成本养娃",
+     "likes": 93,
+     "likes_raw": "93",
+     "date": "2024-11-29",
+     "url": "https://www.xiaohongshu.com/explore/6749630a00000000020193a2?xsec_token=AB5vxWOg-eantbmw7ueT8YWyIpCmVBYKbHN53Ene-L_Qw=&xsec_source=pc_user"
+    },
+    {
+     "index": 107,
+     "title": "这带孩子正在失去玩泥巴的能力",
+     "likes": 74,
+     "likes_raw": "74",
+     "date": "2025-04-02",
+     "url": "https://www.xiaohongshu.com/explore/67ebd4a3000000001b03f79a?xsec_token=ABaiYX3IglIgWKd3k3I8avkPd4hWWwY-TX6jfTpwxUAhg=&xsec_source=pc_user"
+    },
+    {
+     "index": 20,
+     "title": "低成本让孩子不玩手机",
+     "likes": 70,
+     "likes_raw": "70",
+     "date": "2026-07-07",
+     "url": "https://www.xiaohongshu.com/explore/6a4cdd9a000000001003ce45?xsec_token=AByltiTAAoJY0BsCi_YMiccENGbZ8Vd-EeKeG6CVHfUCA=&xsec_source=pc_user"
+    },
+    {
+     "index": 8,
+     "title": "孩子的度假方式不是打卡，而是“瞎玩”",
+     "likes": 50,
+     "likes_raw": "50",
+     "date": "2026-10-07",
+     "url": "https://www.xiaohongshu.com/explore/6ac6351f000000000b00738a?xsec_token=ABqWGm2GIMz9Wtc8B62cWQC0WmsbzcRK10i-z5PUXPTXA=&xsec_source=pc_user"
+    }
+   ]
+  },
+  {
+   "key": "model",
+   "theme": "以身作则",
+   "statement": "孩子模仿大人的言行，示范比说教有效。",
+   "reasoning": "孩子对大人行为的模仿远超预期，好习惯靠环境和示范养成。",
+   "tips": [
+    "想让孩子看书，大人先坐在旁边看书",
+    "闯祸后父母主动担责，孩子学会担当",
+    "注意在孩子面前的口头禅"
+   ],
+   "quotes": [
+    {
+     "note": 26,
+     "title": "我被邻居家的小孩上了一课",
+     "url": "https://www.xiaohongshu.com/explore/6a229d110000000035029e2f?xsec_token=AB-s27l11WdqE9LjYOlHpXai9OOCiB2kDFmVIKAnzKYgw=&xsec_source=pc_user",
+     "text": "言传身教一下子就具象化了",
+     "source": "文字稿"
+    },
+    {
+     "note": 116,
+     "title": "一不小心学会上厕所了，就是代价有点大",
+     "url": "https://www.xiaohongshu.com/explore/67ce6379000000000900d7cd?xsec_token=ABl-zAJFkt-Si_cKBTBQyGv9mDMrQtweOoMcbS5suum7s=&xsec_source=pc_user",
+     "text": "所以父母永远都是孩最好的老师。",
+     "source": "文字稿"
+    }
+   ],
+   "note_count": 4,
+   "total_likes": 76749,
+   "top_note": {
+    "index": 26,
+    "title": "我被邻居家的小孩上了一课",
+    "likes": 75000,
+    "likes_raw": "7.5万",
+    "date": "2026-06-05",
+    "url": "https://www.xiaohongshu.com/explore/6a229d110000000035029e2f?xsec_token=AB-s27l11WdqE9LjYOlHpXai9OOCiB2kDFmVIKAnzKYgw=&xsec_source=pc_user"
+   },
+   "notes": [
+    {
+     "index": 26,
+     "title": "我被邻居家的小孩上了一课",
+     "likes": 75000,
+     "likes_raw": "7.5万",
+     "date": "2026-06-05",
+     "url": "https://www.xiaohongshu.com/explore/6a229d110000000035029e2f?xsec_token=AB-s27l11WdqE9LjYOlHpXai9OOCiB2kDFmVIKAnzKYgw=&xsec_source=pc_user"
+    },
+    {
+     "index": 71,
+     "title": "孩子不需要一个说教者",
+     "likes": 1573,
+     "likes_raw": "1573",
+     "date": "2025-10-25",
+     "url": "https://www.xiaohongshu.com/explore/68fcbed20000000005033aa5?xsec_token=AByNZHaRgPBen5XeTnIqOPJLLLGnJVnOGNxWY8Cx4ArFE=&xsec_source=pc_user"
+    },
+    {
+     "index": 116,
+     "title": "一不小心学会上厕所了，就是代价有点大",
+     "likes": 114,
+     "likes_raw": "114",
+     "date": "2025-03-10",
+     "url": "https://www.xiaohongshu.com/explore/67ce6379000000000900d7cd?xsec_token=ABl-zAJFkt-Si_cKBTBQyGv9mDMrQtweOoMcbS5suum7s=&xsec_source=pc_user"
+    },
+    {
+     "index": 152,
+     "title": "不看电视不看手机，让2岁宝宝养成好习惯",
+     "likes": 62,
+     "likes_raw": "62",
+     "date": "2024-11-25",
+     "url": "https://www.xiaohongshu.com/explore/67442a030000000007038ae5?xsec_token=ABZF7-R8MzHNnEjEWwMRUpq9mfN733mccninbADzwiIzg=&xsec_source=pc_user"
+    }
+   ]
+  },
+  {
+   "key": "kinder",
+   "theme": "入园准备",
+   "statement": "通过模拟幼儿园生活、自理训练和具体话术，让孩子对入园有期待、有底气。",
+   "reasoning": "孩子的底气来自家长给的安全感和具体的应对方法，而不是一句“要勇敢”。",
+   "tips": [
+    "在家模拟幼儿园一日流程，练习举手表达需求",
+    "教具体话术：轮流玩、我玩完就给你",
+    "用日历倒数、读入园主题绘本"
+   ],
+   "quotes": [
+    {
+     "note": 11,
+     "title": "孩子上幼儿园的底气都是父母给的",
+     "url": "https://www.xiaohongshu.com/explore/6a991a9d000000000d025986?xsec_token=AB3ynIjuKA1OuYOBNuM3WRNcHIrqyOK0-gHvcDQqQU9yI=&xsec_source=pc_user",
+     "text": "公共玩具，谁先拿到谁先玩，有人抢，你就大声的说，轮流玩，我玩完就给你",
+     "source": "文字稿"
+    },
+    {
+     "note": 83,
+     "title": "我婆婆是怎么让优格期待上幼儿园的",
+     "url": "https://www.xiaohongshu.com/explore/68a6f78e000000001b03144f?xsec_token=ABVFC-VvQpWwjuHMIwiAYNcTdaSdMmSyByIJy8REM-h-g=&xsec_source=pc_user",
+     "text": "每天在家模拟幼儿园生活",
+     "source": "文字稿"
+    }
+   ],
+   "note_count": 5,
+   "total_likes": 59115,
+   "top_note": {
+    "index": 83,
+    "title": "我婆婆是怎么让优格期待上幼儿园的",
+    "likes": 43000,
+    "likes_raw": "4.3万",
+    "date": "2025-08-21",
+    "url": "https://www.xiaohongshu.com/explore/68a6f78e000000001b03144f?xsec_token=ABVFC-VvQpWwjuHMIwiAYNcTdaSdMmSyByIJy8REM-h-g=&xsec_source=pc_user"
+   },
+   "notes": [
+    {
+     "index": 83,
+     "title": "我婆婆是怎么让优格期待上幼儿园的",
+     "likes": 43000,
+     "likes_raw": "4.3万",
+     "date": "2025-08-21",
+     "url": "https://www.xiaohongshu.com/explore/68a6f78e000000001b03144f?xsec_token=ABVFC-VvQpWwjuHMIwiAYNcTdaSdMmSyByIJy8REM-h-g=&xsec_source=pc_user"
+    },
+    {
+     "index": 11,
+     "title": "孩子上幼儿园的底气都是父母给的",
+     "likes": 14000,
+     "likes_raw": "1.4万",
+     "date": "2026-09-03",
+     "url": "https://www.xiaohongshu.com/explore/6a991a9d000000000d025986?xsec_token=AB3ynIjuKA1OuYOBNuM3WRNcHIrqyOK0-gHvcDQqQU9yI=&xsec_source=pc_user"
+    },
+    {
+     "index": 60,
+     "title": "有时候真佩服我婆婆说话的艺术",
+     "likes": 1402,
+     "likes_raw": "1402",
+     "date": "2025-12-16",
+     "url": "https://www.xiaohongshu.com/explore/693f79db000000001e016a6d?xsec_token=AB3TP5_6ml6ChhbEglb_RBNVik781p_nzrqTOgx_yZQ5I=&xsec_source=pc_user"
+    },
+    {
+     "index": 17,
+     "title": "从幼儿园回来越来越懒，怎么套路她！？",
+     "likes": 497,
+     "likes_raw": "497",
+     "date": "2026-07-17",
+     "url": "https://www.xiaohongshu.com/explore/6a585fa3000000000f01c0d1?xsec_token=ABym4hgkwt54H59Bam9O4bIgLXqdYNAFJ6jmkwd86YpVw=&xsec_source=pc_user"
+    },
+    {
+     "index": 12,
+     "title": "一点小技巧，让孩子无痛入园",
+     "likes": 216,
+     "likes_raw": "216",
+     "date": "2026-08-27",
+     "url": "https://www.xiaohongshu.com/explore/6a8f926b00000000260063d3?xsec_token=ABQy4Ve32lSDlRosX7xpzjhYQ7lm8jowlvzrFB_MD_F0w=&xsec_source=pc_user"
+    }
+   ]
+  },
+  {
+   "key": "correct",
+   "theme": "少提醒、少纠正：用具体帮助和引导代替",
+   "statement": "“小心点”“不对”这类空洞提醒和纠正，换成具体可执行的指令或示范。",
+   "reasoning": "过度提醒等于传递焦虑，纠正是在说“你错了”；引导和具体帮助才让孩子敢尝试、学会方法。",
+   "tips": [
+    "把“小心点”换成“停下、退后、靠边”这样的短指令",
+    "孩子做错时先不纠正，示范一次“试试这样会更好”",
+    "危险可控时允许孩子试错"
+   ],
+   "quotes": [
+    {
+     "note": 5,
+     "title": "真实的感受了一次过度纠正的孩子会变什么样",
+     "url": "https://www.xiaohongshu.com/explore/6acde9ce000000000a01fc39?xsec_token=ABExIzQTczvqv8QG_e2trfpU90Gdq0A_FKyV5DMmymeaY=&xsec_source=pc_user",
+     "text": "纠正是在说你这样做是错的，而引导是在说你试试这样做会更好。",
+     "source": "文字稿"
+    },
+    {
+     "note": 22,
+     "title": "孩子在心里听到的小心点不是专注，是焦虑！",
+     "url": "https://www.xiaohongshu.com/explore/6a411339000000002003a5e4?xsec_token=ABq9PdICqSbIPMC-3KTU_ExLLOa6ZC25JyH_SpIRLdiPI=&xsec_source=pc_user",
+     "text": "提醒是在说你千万别出错，而帮助是在说出错了也没有关系。",
+     "source": "文字稿"
+    },
+    {
+     "note": 85,
+     "title": "爱，让她更自由",
+     "url": "https://www.xiaohongshu.com/explore/689dc6d4000000001d00ff4c?xsec_token=AB1VWRglbv6RoS83_qJ8Nrex9ZoB-xHBhTUl7UBTQ1x8M=&xsec_source=pc_user",
+     "text": "简短的清晰的指令停下退后靠边，比说这心点更有用。",
+     "source": "文字稿"
+    }
+   ],
+   "note_count": 5,
+   "total_likes": 53749,
+   "top_note": {
+    "index": 85,
+    "title": "爱，让她更自由",
+    "likes": 44000,
+    "likes_raw": "4.4万",
+    "date": "2025-08-14",
+    "url": "https://www.xiaohongshu.com/explore/689dc6d4000000001d00ff4c?xsec_token=AB1VWRglbv6RoS83_qJ8Nrex9ZoB-xHBhTUl7UBTQ1x8M=&xsec_source=pc_user"
+   },
+   "notes": [
+    {
+     "index": 85,
+     "title": "爱，让她更自由",
+     "likes": 44000,
+     "likes_raw": "4.4万",
+     "date": "2025-08-14",
+     "url": "https://www.xiaohongshu.com/explore/689dc6d4000000001d00ff4c?xsec_token=AB1VWRglbv6RoS83_qJ8Nrex9ZoB-xHBhTUl7UBTQ1x8M=&xsec_source=pc_user"
+    },
+    {
+     "index": 5,
+     "title": "真实的感受了一次过度纠正的孩子会变什么样",
+     "likes": 6165,
+     "likes_raw": "6165",
+     "date": "2026-10-13",
+     "url": "https://www.xiaohongshu.com/explore/6acde9ce000000000a01fc39?xsec_token=ABExIzQTczvqv8QG_e2trfpU90Gdq0A_FKyV5DMmymeaY=&xsec_source=pc_user"
+    },
+    {
+     "index": 52,
+     "title": "那些好心的提醒，为什么让人莫名的烦躁",
+     "likes": 2140,
+     "likes_raw": "2140",
+     "date": "2026-01-26",
+     "url": "https://www.xiaohongshu.com/explore/69770f6a000000000b00a979?xsec_token=ABX-WJ1V4BOpSP3lLXVWByW2eteRZ0KxpXH4lg4bIW-Tw=&xsec_source=pc_user"
+    },
+    {
+     "index": 22,
+     "title": "孩子在心里听到的小心点不是专注，是焦虑！",
+     "likes": 1350,
+     "likes_raw": "1350",
+     "date": "2026-06-28",
+     "url": "https://www.xiaohongshu.com/explore/6a411339000000002003a5e4?xsec_token=ABq9PdICqSbIPMC-3KTU_ExLLOa6ZC25JyH_SpIRLdiPI=&xsec_source=pc_user"
+    },
+    {
+     "index": 4,
+     "title": "怎么正确引导孩子养成好习惯",
+     "likes": 94,
+     "likes_raw": "94",
+     "date": "2026-10-17",
+     "url": "https://www.xiaohongshu.com/explore/6ad3432f000000001a03230c?xsec_token=ABQuhGbtBehwjeot1384liirBLVrdmLLqr4LRSsuWmimc=&xsec_source=pc_user"
+    }
+   ]
+  },
+  {
+   "key": "pace",
+   "theme": "尊重节奏、不扫兴、给自主权",
+   "statement": "不在无关紧要的小事上管控孩子，跟随孩子的节奏，把孩子当独立的人。",
+   "reasoning": "很多限制其实是为了满足大人自己的秩序感；过程中的探索对孩子来说比目的地更重要。",
+   "tips": [
+    "出门给大致方向和边界，只保证孩子在视线内",
+    "日常小事给孩子二选一的选择权",
+    "孩子躺地上看虫子时可以蹲下陪他看"
+   ],
+   "quotes": [
+    {
+     "note": 15,
+     "title": "当我学着不再去控制孩子",
+     "url": "https://www.xiaohongshu.com/explore/6a71b955000000002501212e?xsec_token=ABIqmSXIMqgHpnS8UMNqVOs2UyQeGHhaOJFSde_XqyIXk=&xsec_source=pc_user",
+     "text": "他从来不在小事上消耗孩子。",
+     "source": "文字稿"
+    },
+    {
+     "note": 66,
+     "title": "听我婆婆的很有道理",
+     "url": "https://www.xiaohongshu.com/explore/691d40b3000000001b02002d?xsec_token=ABOwwZb2ez6UyjnjfDlcv_2_5NAYYXC_wmwhSVyXiPoqI=&xsec_source=pc_user",
+     "text": "可能对孩子来说，过程中探索的乐趣远大于我们最终的目的地。",
+     "source": "文字稿"
+    },
+    {
+     "note": 81,
+     "title": "我婆婆很会拿捏孩子，来达到自己的目的",
+     "url": "https://www.xiaohongshu.com/explore/68bec1ed000000001d0367b0?xsec_token=ABbeHlvQIBkd2Cy6tDvrVXoORko8f8o-Nn3w1HQT5BZb8=&xsec_source=pc_user",
+     "text": "要把小孩儿当做一个独立的人来看待",
+     "source": "文字稿"
+    }
+   ],
+   "note_count": 11,
+   "total_likes": 50252,
+   "top_note": {
+    "index": 84,
+    "title": "其实小孩啥都懂",
+    "likes": 25000,
+    "likes_raw": "2.5万",
+    "date": "2025-08-19",
+    "url": "https://www.xiaohongshu.com/explore/68a463c6000000001c035a00?xsec_token=ABZYsxQPdsvvC1pMO7pb2vO4povFRChlStv1-EVMAzEXI=&xsec_source=pc_user"
+   },
+   "notes": [
+    {
+     "index": 84,
+     "title": "其实小孩啥都懂",
+     "likes": 25000,
+     "likes_raw": "2.5万",
+     "date": "2025-08-19",
+     "url": "https://www.xiaohongshu.com/explore/68a463c6000000001c035a00?xsec_token=ABZYsxQPdsvvC1pMO7pb2vO4povFRChlStv1-EVMAzEXI=&xsec_source=pc_user"
+    },
+    {
+     "index": 66,
+     "title": "听我婆婆的很有道理",
+     "likes": 11000,
+     "likes_raw": "1.1万",
+     "date": "2025-11-19",
+     "url": "https://www.xiaohongshu.com/explore/691d40b3000000001b02002d?xsec_token=ABOwwZb2ez6UyjnjfDlcv_2_5NAYYXC_wmwhSVyXiPoqI=&xsec_source=pc_user"
+    },
+    {
+     "index": 15,
+     "title": "当我学着不再去控制孩子",
+     "likes": 6343,
+     "likes_raw": "6343",
+     "date": "2026-08-04",
+     "url": "https://www.xiaohongshu.com/explore/6a71b955000000002501212e?xsec_token=ABIqmSXIMqgHpnS8UMNqVOs2UyQeGHhaOJFSde_XqyIXk=&xsec_source=pc_user"
+    },
+    {
+     "index": 81,
+     "title": "我婆婆很会拿捏孩子，来达到自己的目的",
+     "likes": 2459,
+     "likes_raw": "2459",
+     "date": "2025-09-08",
+     "url": "https://www.xiaohongshu.com/explore/68bec1ed000000001d0367b0?xsec_token=ABbeHlvQIBkd2Cy6tDvrVXoORko8f8o-Nn3w1HQT5BZb8=&xsec_source=pc_user"
+    },
+    {
+     "index": 33,
+     "title": "我婆婆带娃像“遛狗”",
+     "likes": 2052,
+     "likes_raw": "2052",
+     "date": "2026-05-07",
+     "url": "https://www.xiaohongshu.com/explore/69fb468e000000002301f3e4?xsec_token=AB7wZWkEdKLj2jid8ntUhcwK7d5JDPkuKrfQFpkPkILTM=&xsec_source=pc_user"
+    },
+    {
+     "index": 71,
+     "title": "孩子不需要一个说教者",
+     "likes": 1573,
+     "likes_raw": "1573",
+     "date": "2025-10-25",
+     "url": "https://www.xiaohongshu.com/explore/68fcbed20000000005033aa5?xsec_token=AByNZHaRgPBen5XeTnIqOPJLLLGnJVnOGNxWY8Cx4ArFE=&xsec_source=pc_user"
+    },
+    {
+     "index": 55,
+     "title": "人生就是玩，玩着玩着一切就顺了",
+     "likes": 800,
+     "likes_raw": "800",
+     "date": "2026-01-17",
+     "url": "https://www.xiaohongshu.com/explore/696b2b2d000000000a02a49e?xsec_token=ABQLqSKr0uPZtJ6kuROXH-xsnKZSTvxNz8yLpW6eZcJIk=&xsec_source=pc_user"
+    },
+    {
+     "index": 163,
+     "title": "这就是为什么我婆婆带娃看起来很轻松的原因",
+     "likes": 647,
+     "likes_raw": "647",
+     "date": "2024-10-26",
+     "url": "https://www.xiaohongshu.com/explore/671cb0660000000021006c93?xsec_token=ABq44jnt_924wbqD-KV-SHx-TmZIIG5XagGzuX7__8PMI=&xsec_source=pc_user"
+    },
+    {
+     "index": 36,
+     "title": "女孩应该什么样，她自己说了算",
+     "likes": 234,
+     "likes_raw": "234",
+     "date": "2026-04-25",
+     "url": "https://www.xiaohongshu.com/explore/69ec2a780000000023007d68?xsec_token=ABGXR8zbfpzl8bJ3hMnFuI1dbBMBy_lrGwf31dHQX2ooI=&xsec_source=pc_user"
+    },
+    {
+     "index": 109,
+     "title": "做一个不扫兴的大人吧，允许一切发生",
+     "likes": 119,
+     "likes_raw": "119",
+     "date": "2025-03-21",
+     "url": "https://www.xiaohongshu.com/explore/67dd5870000000001c00ba12?xsec_token=AB3J6d6gabEwlKE6hJMfHW_KB4WdYOP9McdeanGaAf53o=&xsec_source=pc_user"
+    },
+    {
+     "index": 161,
+     "title": "不要强迫两三岁的孩子听话懂事",
+     "likes": 25,
+     "likes_raw": "25",
+     "date": "2024-10-30",
+     "url": "https://www.xiaohongshu.com/explore/6721f95f000000001b02f44d?xsec_token=ABkffX1MOWFVsqSvqqeRuq06P7gQUO8iAMSUE0LAOMobM=&xsec_source=pc_user"
+    }
+   ]
+  },
+  {
+   "key": "emotion",
+   "theme": "先接住情绪，再处理问题",
+   "statement": "孩子哭闹时先表达理解、陪伴，不斥责“丢不丢人”，也不靠妥协止哭。",
+   "reasoning": "她观察到婆婆不说教、只抱着陪伴，孩子反而更快平静；愤怒可以被接纳，孩子才学会说出“我很想要”。",
+   "tips": [
+    "先说“我知道你想要”，再重申约定",
+    "孩子哭时少说话，抱着或陪着",
+    "年龄小的孩子可先顺着、再转移注意力"
+   ],
+   "quotes": [
+    {
+     "note": 101,
+     "title": "我婆婆教孩子要好好生气，正确发脾气",
+     "url": "https://www.xiaohongshu.com/explore/684844320000000022028754?xsec_token=ABxg-OWArrwwj4OVX3XJyAaKkK26FzNs0oznzIS4KBBww=&xsec_source=pc_user",
+     "text": "原来沉默才是应对哭闹最好的办法。",
+     "source": "文字稿"
+    },
+    {
+     "note": 62,
+     "title": "沟通，接纳，理解，允许和爱。比威胁、吼骂",
+     "url": "https://www.xiaohongshu.com/explore/69378407000000001b0247db?xsec_token=ABA6jEcX7NFqHuz5mF4XmiT9B4cOoTLP7UZyTX2b3lc9I=&xsec_source=pc_user",
+     "text": "我婆婆说这个时候你应该是先接住他的情绪，不是她的话茬。",
+     "source": "文字稿"
+    }
+   ],
+   "note_count": 8,
+   "total_likes": 28738,
+   "top_note": {
+    "index": 101,
+    "title": "我婆婆教孩子要好好生气，正确发脾气",
+    "likes": 25000,
+    "likes_raw": "2.5万",
+    "date": "2025-06-11",
+    "url": "https://www.xiaohongshu.com/explore/684844320000000022028754?xsec_token=ABxg-OWArrwwj4OVX3XJyAaKkK26FzNs0oznzIS4KBBww=&xsec_source=pc_user"
+   },
+   "notes": [
+    {
+     "index": 101,
+     "title": "我婆婆教孩子要好好生气，正确发脾气",
+     "likes": 25000,
+     "likes_raw": "2.5万",
+     "date": "2025-06-11",
+     "url": "https://www.xiaohongshu.com/explore/684844320000000022028754?xsec_token=ABxg-OWArrwwj4OVX3XJyAaKkK26FzNs0oznzIS4KBBww=&xsec_source=pc_user"
+    },
+    {
+     "index": 60,
+     "title": "有时候真佩服我婆婆说话的艺术",
+     "likes": 1402,
+     "likes_raw": "1402",
+     "date": "2025-12-16",
+     "url": "https://www.xiaohongshu.com/explore/693f79db000000001e016a6d?xsec_token=AB3TP5_6ml6ChhbEglb_RBNVik781p_nzrqTOgx_yZQ5I=&xsec_source=pc_user"
+    },
+    {
+     "index": 70,
+     "title": "孩子有那么容易被惯坏吗？",
+     "likes": 865,
+     "likes_raw": "865",
+     "date": "2025-10-31",
+     "url": "https://www.xiaohongshu.com/explore/690488c20000000004010b30?xsec_token=ABEMfYEaNBzhA9ENChYJCmutc2RwB7dMftEahIJL5S6v4=&xsec_source=pc_user"
+    },
+    {
+     "index": 9,
+     "title": "婆婆帮我养出情绪稳定的女儿",
+     "likes": 421,
+     "likes_raw": "421",
+     "date": "2026-09-29",
+     "url": "https://www.xiaohongshu.com/explore/6aba0e87000000001802cf2a?xsec_token=AB_y7NF8K768MkXnixbRZZ78HryLa36hpcYes8RIcG90U=&xsec_source=pc_user"
+    },
+    {
+     "index": 97,
+     "title": "老人带的孩子更容易对老人发脾气！",
+     "likes": 356,
+     "likes_raw": "356",
+     "date": "2025-07-02",
+     "url": "https://www.xiaohongshu.com/explore/686516e10000000020018007?xsec_token=AB3lXDl78pBN8pNXAI9OaPf4fSaDwN2Vgt0BUV9sDH__o=&xsec_source=pc_user"
+    },
+    {
+     "index": 58,
+     "title": "我婆婆带娃不走心",
+     "likes": 307,
+     "likes_raw": "307",
+     "date": "2025-12-25",
+     "url": "https://www.xiaohongshu.com/explore/694cc701000000001e02839b?xsec_token=ABJNW0wsy-UBVJMDSkQuhEAY3Zsr2osRMDONWN2tU5lBU=&xsec_source=pc_user"
+    },
+    {
+     "index": 62,
+     "title": "沟通，接纳，理解，允许和爱。比威胁、吼骂",
+     "likes": 244,
+     "likes_raw": "244",
+     "date": "2025-12-09",
+     "url": "https://www.xiaohongshu.com/explore/69378407000000001b0247db?xsec_token=ABA6jEcX7NFqHuz5mF4XmiT9B4cOoTLP7UZyTX2b3lc9I=&xsec_source=pc_user"
+    },
+    {
+     "index": 51,
+     "title": "当孩子不听话的时候，我们该怎么办？",
+     "likes": 143,
+     "likes_raw": "143",
+     "date": "2026-01-28",
+     "url": "https://www.xiaohongshu.com/explore/69796a91000000001a029d72?xsec_token=ABgycEMEejAgtwh_dCxk88cscOqfMkqKNwcSy-zFNrtys=&xsec_source=pc_user"
+    }
+   ]
+  },
+  {
+   "key": "social",
+   "theme": "社交冲突：不替孩子出头，教方法和边界",
+   "statement": "孩子间的小冲突先让孩子自己解决，大人教方法（大声说“请还给我”）而不是代劳。",
+   "reasoning": "替孩子开口、出头，会让孩子失去练习社交的机会；把孩子教得太敏感，也会让她更痛苦。",
+   "tips": [
+    "玩具被抢时鼓励孩子大声说“那是我的，请还给我”",
+    "不是故意的碰撞淡定处理，对方故意且不道歉才出面",
+    "借玩具让孩子自己去问"
+   ],
+   "quotes": [
+    {
+     "note": 27,
+     "title": "让孩子学着自己长大",
+     "url": "https://www.xiaohongshu.com/explore/6a1d7bff0000000035033243?xsec_token=AB3yoTZpX0nMsJTjX0vfNaGHjbnZiGyKPVDXsQwrkwWNA=&xsec_source=pc_user",
+     "text": "不如把解决问题的机会还给孩子，让他慢慢的琢磨出应该怎么跟人合作，怎么打交道。",
+     "source": "文字稿"
+    },
+    {
+     "note": 144,
+     "title": "别把孩子培养成被欺负的对象",
+     "url": "https://www.xiaohongshu.com/explore/675b8eb30000000004029792?xsec_token=AB6xC9bsEMClUs_YH57uIdugVOobna6jSrBqlXuYc1s9g=&xsec_source=pc_user",
+     "text": "玩具被抢了，就要鼓励他大声的说，那是我的东西，请还给我。",
+     "source": "文字稿"
+    }
+   ],
+   "note_count": 13,
+   "total_likes": 24767,
+   "top_note": {
+    "index": 11,
+    "title": "孩子上幼儿园的底气都是父母给的",
+    "likes": 14000,
+    "likes_raw": "1.4万",
+    "date": "2026-09-03",
+    "url": "https://www.xiaohongshu.com/explore/6a991a9d000000000d025986?xsec_token=AB3ynIjuKA1OuYOBNuM3WRNcHIrqyOK0-gHvcDQqQU9yI=&xsec_source=pc_user"
+   },
+   "notes": [
+    {
+     "index": 11,
+     "title": "孩子上幼儿园的底气都是父母给的",
+     "likes": 14000,
+     "likes_raw": "1.4万",
+     "date": "2026-09-03",
+     "url": "https://www.xiaohongshu.com/explore/6a991a9d000000000d025986?xsec_token=AB3ynIjuKA1OuYOBNuM3WRNcHIrqyOK0-gHvcDQqQU9yI=&xsec_source=pc_user"
+    },
+    {
+     "index": 54,
+     "title": "当我遇到抢占公共设施的孩子，带给我的反思",
+     "likes": 4075,
+     "likes_raw": "4075",
+     "date": "2026-01-20",
+     "url": "https://www.xiaohongshu.com/explore/696f709f000000000a02d53e?xsec_token=ABykmJRLsVeo-9Q0OZ8qxKAavxobTG_SiG0leJ-1JvjmY=&xsec_source=pc_user"
+    },
+    {
+     "index": 129,
+     "title": "带娃去公共场合，尽量远离熊孩子",
+     "likes": 1715,
+     "likes_raw": "1715",
+     "date": "2025-01-22",
+     "url": "https://www.xiaohongshu.com/explore/67905c95000000002602e63e?xsec_token=ABi2tDdZa-G5Rr4uvoxEy3S1KWNSuFgDC74p8VATtCSGI=&xsec_source=pc_user"
+    },
+    {
+     "index": 82,
+     "title": "入园第三天被小朋友打了，不想上学了",
+     "likes": 1574,
+     "likes_raw": "1574",
+     "date": "2025-09-04",
+     "url": "https://www.xiaohongshu.com/explore/68b99120000000001c03395c?xsec_token=ABsilsgrJAD_WZYXvac8jCc6s8CvDXh0QCqx00Juq-KEY=&xsec_source=pc_user"
+    },
+    {
+     "index": 147,
+     "title": "又一次被婆婆的顶级思维震撼到",
+     "likes": 1275,
+     "likes_raw": "1275",
+     "date": "2024-12-03",
+     "url": "https://www.xiaohongshu.com/explore/674e5bb70000000002038d54?xsec_token=ABEwHxvDwipsw929vrvX-xD0pWWyazv_McCFhY63aujYY=&xsec_source=pc_user"
+    },
+    {
+     "index": 144,
+     "title": "别把孩子培养成被欺负的对象",
+     "likes": 829,
+     "likes_raw": "829",
+     "date": "2024-12-13",
+     "url": "https://www.xiaohongshu.com/explore/675b8eb30000000004029792?xsec_token=AB6xC9bsEMClUs_YH57uIdugVOobna6jSrBqlXuYc1s9g=&xsec_source=pc_user"
+    },
+    {
+     "index": 10,
+     "title": "女儿的社交能力是婆婆这样一点点练出来的",
+     "likes": 438,
+     "likes_raw": "438",
+     "date": "2026-09-28",
+     "url": "https://www.xiaohongshu.com/explore/6aba0dd90000000013019a18?xsec_token=AB_y7NF8K768MkXnixbRZZ70P2xlHMmEpZNznZQdlSQH0=&xsec_source=pc_user"
+    },
+    {
+     "index": 94,
+     "title": "发现我女儿被养的很好，是因为我婆婆",
+     "likes": 247,
+     "likes_raw": "247",
+     "date": "2025-07-13",
+     "url": "https://www.xiaohongshu.com/explore/68739858000000001203cd6b?xsec_token=ABqhJT4Q8y-2pWtfoHOe1qqBQUKj6xZuhmzHbG9GzR2OA=&xsec_source=pc_user"
+    },
+    {
+     "index": 27,
+     "title": "让孩子学着自己长大",
+     "likes": 234,
+     "likes_raw": "234",
+     "date": "2026-06-01",
+     "url": "https://www.xiaohongshu.com/explore/6a1d7bff0000000035033243?xsec_token=AB3yoTZpX0nMsJTjX0vfNaGHjbnZiGyKPVDXsQwrkwWNA=&xsec_source=pc_user"
+    },
+    {
+     "index": 16,
+     "title": "当我们帮孩子挡掉所有错误",
+     "likes": 204,
+     "likes_raw": "204",
+     "date": "2026-07-27",
+     "url": "https://www.xiaohongshu.com/explore/6a672ddf000000001c0123b0?xsec_token=ABRNYbNVZOSoWKSwOmAH-zKGdhZqxaXAkvzCLJhWBIqC8=&xsec_source=pc_user"
+    },
+    {
+     "index": 162,
+     "title": "当有人当中说孩子胆小内向不爱说话",
+     "likes": 89,
+     "likes_raw": "89",
+     "date": "2024-10-27",
+     "url": "https://www.xiaohongshu.com/explore/671e024900000000240195a9?xsec_token=ABUJN4ZRILlfF5GzgQyPgLT8XDqPlF_sl3g3TafHqg_5Q=&xsec_source=pc_user"
+    },
+    {
+     "index": 7,
+     "title": "社交里发生冲突不可怕，怕的是",
+     "likes": 48,
+     "likes_raw": "48",
+     "date": "2026-10-10",
+     "url": "https://www.xiaohongshu.com/explore/6ac9f5f60000000001008dcf?xsec_token=ABDwp6ms1t9zmiFhHIqlo69TUuqwYWurDJ0W1jeiw7aGA=&xsec_source=pc_user"
+    },
+    {
+     "index": 122,
+     "title": "永远不要拿孩子的东西去送人",
+     "likes": 39,
+     "likes_raw": "39",
+     "date": "2025-02-08",
+     "url": "https://www.xiaohongshu.com/explore/67a72fba000000002a000609?xsec_token=ABAk1AT_WGJRkAkyfOG95IOTAnTNQbX-4OjaKihVvxtm4=&xsec_source=pc_user"
+    }
+   ]
+  },
+  {
+   "key": "privacy",
+   "theme": "身体安全与隐私保护",
+   "statement": "从小建立身体边界：不强迫亲近陌生人，穿裙配打底裤，隐私照片不外发。",
+   "reasoning": "儿童性骚扰多发生在熟人之间，哪怕百分之一的可能也要防。",
+   "tips": [
+    "孩子可以拒绝拉手、摸头、捏脸",
+    "用绘本认识身体，明确背心内裤覆盖处是隐私",
+    "不在家族群发孩子洗澡、换尿布视频"
+   ],
+   "quotes": [
+    {
+     "note": 24,
+     "title": "保护孩子最好的方式",
+     "url": "https://www.xiaohongshu.com/explore/6a3664b9000000000f014978?xsec_token=AB7M-H2An4Su7XTOxCBwcXs1Rq5hq653yx2A8MPaPXCHk=&xsec_source=pc_user",
+     "text": "如果有人让你害怕让你紧张，让你觉得不舒服，哪怕有是拉手、摸头捏脸，你都可以拒绝",
+     "source": "文字稿"
+    }
+   ],
+   "note_count": 4,
+   "total_likes": 22536,
+   "top_note": {
+    "index": 98,
+    "title": "我婆婆在保护优格隐私这方面",
+    "likes": 17000,
+    "likes_raw": "1.7万",
+    "date": "2025-06-28",
+    "url": "https://www.xiaohongshu.com/explore/685fd3fe000000001002567a?xsec_token=AB_l3GGdpUn53m-m0QEQuP1WEwfq80dOpLLXFWGsayoPI=&xsec_source=pc_user"
+   },
+   "notes": [
+    {
+     "index": 98,
+     "title": "我婆婆在保护优格隐私这方面",
+     "likes": 17000,
+     "likes_raw": "1.7万",
+     "date": "2025-06-28",
+     "url": "https://www.xiaohongshu.com/explore/685fd3fe000000001002567a?xsec_token=AB_l3GGdpUn53m-m0QEQuP1WEwfq80dOpLLXFWGsayoPI=&xsec_source=pc_user"
+    },
+    {
+     "index": 89,
+     "title": "保护好孩子，不要不当回事",
+     "likes": 5198,
+     "likes_raw": "5198",
+     "date": "2025-08-02",
+     "url": "https://www.xiaohongshu.com/explore/688df351000000002500ca39?xsec_token=AB9v_NKPfFIH7GIY40_8iLf9SG1KgQV3VssKeGKPYeSMg=&xsec_source=pc_user"
+    },
+    {
+     "index": 24,
+     "title": "保护孩子最好的方式",
+     "likes": 203,
+     "likes_raw": "203",
+     "date": "2026-06-20",
+     "url": "https://www.xiaohongshu.com/explore/6a3664b9000000000f014978?xsec_token=AB7M-H2An4Su7XTOxCBwcXs1Rq5hq653yx2A8MPaPXCHk=&xsec_source=pc_user"
+    },
+    {
+     "index": 105,
+     "title": "回想当时的场景到现在我还是气的发抖",
+     "likes": 135,
+     "likes_raw": "135",
+     "date": "2025-04-05",
+     "url": "https://www.xiaohongshu.com/explore/67ebd5d9000000001c01029b?xsec_token=ABaiYX3IglIgWKd3k3I8avkCQ3mt328o1ViWHPDF9EuWQ=&xsec_source=pc_user"
+    }
+   ]
+  },
+  {
+   "key": "praise",
+   "theme": "夸奖与鼓励：描述性肯定，少点评",
+   "statement": "少说笼统的“真棒”，多描述孩子具体做了什么；尝试新事物时少点评。",
+   "reasoning": "把夸奖当日常流程，孩子会变成“不夸不动”（外在动机侵蚀）；对敏感孩子，鼓励也可能变成压力。",
+   "tips": [
+    "描述具体行为：“你自己把脚后跟蹬进去了”",
+    "孩子尝试新事物时只陪伴、不评价",
+    "孩子自己完成时只点头回应：“去吧，玩的开心哦”"
+   ],
+   "quotes": [
+    {
+     "note": 23,
+     "title": "孩子真的越夸越懒吗！？",
+     "url": "https://www.xiaohongshu.com/explore/6a39f3ad000000001102fb04?xsec_token=ABO-ZTsNBBKYLSXFeIRc_fvcPoTWxqpHW1KFxH5X-zuOQ=&xsec_source=pc_user",
+     "text": "我看到你自己把脚后跟蹬进去了，还拉了拉鞋舌。",
+     "source": "文字稿"
+    },
+    {
+     "note": 134,
+     "title": "养育是一场漫长的修行",
+     "url": "https://www.xiaohongshu.com/explore/6789b40e000000001603d26e?xsec_token=ABbZfvb9bd8cOcifKYrgAjxmxUeOLozP2VYPf0EmLNMmQ=&xsec_source=pc_user",
+     "text": "当他在尝试一个新鲜事物时，尽量不做点评",
+     "source": "文字稿"
+    }
+   ],
+   "note_count": 2,
+   "total_likes": 21315,
+   "top_note": {
+    "index": 134,
+    "title": "养育是一场漫长的修行",
+    "likes": 18000,
+    "likes_raw": "1.8万",
+    "date": "2025-01-17",
+    "url": "https://www.xiaohongshu.com/explore/6789b40e000000001603d26e?xsec_token=ABbZfvb9bd8cOcifKYrgAjxmxUeOLozP2VYPf0EmLNMmQ=&xsec_source=pc_user"
+   },
+   "notes": [
+    {
+     "index": 134,
+     "title": "养育是一场漫长的修行",
+     "likes": 18000,
+     "likes_raw": "1.8万",
+     "date": "2025-01-17",
+     "url": "https://www.xiaohongshu.com/explore/6789b40e000000001603d26e?xsec_token=ABbZfvb9bd8cOcifKYrgAjxmxUeOLozP2VYPf0EmLNMmQ=&xsec_source=pc_user"
+    },
+    {
+     "index": 23,
+     "title": "孩子真的越夸越懒吗！？",
+     "likes": 3315,
+     "likes_raw": "3315",
+     "date": "2026-06-23",
+     "url": "https://www.xiaohongshu.com/explore/6a39f3ad000000001102fb04?xsec_token=ABO-ZTsNBBKYLSXFeIRc_fvcPoTWxqpHW1KFxH5X-zuOQ=&xsec_source=pc_user"
+    }
+   ]
+  },
+  {
+   "key": "rules",
+   "theme": "温柔而坚定：规则边界与说到做到",
+   "statement": "尊重孩子的感受，但不等于同意他的行为；规则提前说清，说好的就做到。",
+   "reasoning": "边界清楚、秩序可预测，孩子就知道哪些能掌控、哪些不能，不需要靠撒泼试探。",
+   "tips": [
+    "事前约定（如“只买一样”），事中不因哭闹改变",
+    "用“下一步做完X就可以Y”代替“不行”",
+    "规则少而清楚，言出必行"
+   ],
+   "quotes": [
+    {
+     "note": 28,
+     "title": "老人带的孩子都这么没规矩吗？",
+     "url": "https://www.xiaohongshu.com/explore/6a141065000000003502f3a1?xsec_token=ABzn-Q6Yu0u6C_uQbuDc55BmEibkoXIbht-2FLcs_T4kE=&xsec_source=pc_user",
+     "text": "真正的爱不靠什么，无限包容，是温柔而坚定的把界限画清楚。",
+     "source": "文字稿"
+    },
+    {
+     "note": 45,
+     "title": "爱你的人才不会什么都惯着你",
+     "url": "https://www.xiaohongshu.com/explore/69aaa50b000000001b01564e?xsec_token=ABjOSoexSXNELr_mQJvfR0NpFLuR35_OJdT0N5EwujLHI=&xsec_source=pc_user",
+     "text": "他是尊重孩子感受，但不代表同意孩子行为。",
+     "source": "文字稿"
+    },
+    {
+     "note": 64,
+     "title": "带孩子的轻松在于“不教育”",
+     "url": "https://www.xiaohongshu.com/explore/692198da000000001e039491?xsec_token=AB0x7c2elzDs0LDd2JZ5HhL5-J9UzHL8hsp-mTFiqvcio=&xsec_source=pc_user",
+     "text": "立好规矩，言出必行比什么都重要。",
+     "source": "文字稿"
+    }
+   ],
+   "note_count": 7,
+   "total_likes": 17239,
+   "top_note": {
+    "index": 28,
+    "title": "老人带的孩子都这么没规矩吗？",
+    "likes": 8911,
+    "likes_raw": "8911",
+    "date": "2026-05-25",
+    "url": "https://www.xiaohongshu.com/explore/6a141065000000003502f3a1?xsec_token=ABzn-Q6Yu0u6C_uQbuDc55BmEibkoXIbht-2FLcs_T4kE=&xsec_source=pc_user"
+   },
+   "notes": [
+    {
+     "index": 28,
+     "title": "老人带的孩子都这么没规矩吗？",
+     "likes": 8911,
+     "likes_raw": "8911",
+     "date": "2026-05-25",
+     "url": "https://www.xiaohongshu.com/explore/6a141065000000003502f3a1?xsec_token=ABzn-Q6Yu0u6C_uQbuDc55BmEibkoXIbht-2FLcs_T4kE=&xsec_source=pc_user"
+    },
+    {
+     "index": 64,
+     "title": "带孩子的轻松在于“不教育”",
+     "likes": 3930,
+     "likes_raw": "3930",
+     "date": "2025-11-22",
+     "url": "https://www.xiaohongshu.com/explore/692198da000000001e039491?xsec_token=AB0x7c2elzDs0LDd2JZ5HhL5-J9UzHL8hsp-mTFiqvcio=&xsec_source=pc_user"
+    },
+    {
+     "index": 45,
+     "title": "爱你的人才不会什么都惯着你",
+     "likes": 3301,
+     "likes_raw": "3301",
+     "date": "2026-03-07",
+     "url": "https://www.xiaohongshu.com/explore/69aaa50b000000001b01564e?xsec_token=ABjOSoexSXNELr_mQJvfR0NpFLuR35_OJdT0N5EwujLHI=&xsec_source=pc_user"
+    },
+    {
+     "index": 19,
+     "title": "越尊重孩子，她越任性的没边",
+     "likes": 519,
+     "likes_raw": "519",
+     "date": "2026-07-15",
+     "url": "https://www.xiaohongshu.com/explore/6a56e75a000000000f028486?xsec_token=ABNanC5TxbkGd1gikUoQ7eJGpI63wUJhz7UfDO4U2MEYQ=&xsec_source=pc_user"
+    },
+    {
+     "index": 9,
+     "title": "婆婆帮我养出情绪稳定的女儿",
+     "likes": 421,
+     "likes_raw": "421",
+     "date": "2026-09-29",
+     "url": "https://www.xiaohongshu.com/explore/6aba0e87000000001802cf2a?xsec_token=AB_y7NF8K768MkXnixbRZZ78HryLa36hpcYes8RIcG90U=&xsec_source=pc_user"
+    },
+    {
+     "index": 157,
+     "title": "有一个很懂育儿的婆婆是一种什么体验",
+     "likes": 135,
+     "likes_raw": "135",
+     "date": "2024-11-05",
+     "url": "https://www.xiaohongshu.com/explore/6729fac40000000019016c77?xsec_token=ABfi_8ezVWxMOdsj5o0wOAG--m_n4DqORrTbGTHy2xfDw=&xsec_source=pc_user"
+    },
+    {
+     "index": 120,
+     "title": "爱和溺爱并不是一件事情程度上的深浅",
+     "likes": 22,
+     "likes_raw": "22",
+     "date": "2025-02-22",
+     "url": "https://www.xiaohongshu.com/explore/67b7e21a000000002900cad8?xsec_token=ABq0xmOqEI74cHhmqq9ynjMV5yMUJE07aPWEzZnkykVlM=&xsec_source=pc_user"
+    }
+   ]
+  },
+  {
+   "key": "family",
+   "theme": "家庭协作与隔代育儿（含父亲角色）",
+   "statement": "错峰带娃、统一几条底线、信任带娃的老人，父亲需要真正参与。",
+   "reasoning": "带娃的人必须有休息；大方向一致时信任老人，比用书本理论说服更有效。",
+   "tips": [
+    "白天老人、晚上父母接力，周末给老人放假",
+    "全家统一少数底线（如不追喂、动画片限时），其余各按风格",
+    "父亲每天专门陪伴，不边玩手机边应付"
+   ],
+   "quotes": [
+    {
+     "note": 119,
+     "title": "错峰带娃后，我们家越来越和谐了",
+     "url": "https://www.xiaohongshu.com/explore/67b7e2a4000000000903a02c?xsec_token=ABq0xmOqEI74cHhmqq9ynjMb137meAKcn-BqddpSXf9tU=&xsec_source=pc_user",
+     "text": "带娃的人必须保证好休息",
+     "source": "文字稿"
+    },
+    {
+     "note": 126,
+     "title": "养娃这件事，谁负责，责任就会流向谁",
+     "url": "https://www.xiaohongshu.com/explore/67931ed00000000018012152?xsec_token=ABE69VP9IvZaX25jF4oqU8r8vk9fO9oPAZU1tSEzvzCcY=&xsec_source=pc_user",
+     "text": "养娃这件事，谁负责，责任就会流向谁",
+     "source": "标题"
+    }
+   ],
+   "note_count": 12,
+   "total_likes": 12818,
+   "top_note": {
+    "index": 138,
+    "title": "老人带娃，都是以爱之名的骄纵与溺爱吗？",
+    "likes": 5948,
+    "likes_raw": "5948",
+    "date": "2024-12-31",
+    "url": "https://www.xiaohongshu.com/explore/6773b346000000001300b3db?xsec_token=ABc55aFnaS_-osxZiUpufEDTGQqH2499blcMJH8O8V-lI=&xsec_source=pc_user"
+   },
+   "notes": [
+    {
+     "index": 138,
+     "title": "老人带娃，都是以爱之名的骄纵与溺爱吗？",
+     "likes": 5948,
+     "likes_raw": "5948",
+     "date": "2024-12-31",
+     "url": "https://www.xiaohongshu.com/explore/6773b346000000001300b3db?xsec_token=ABc55aFnaS_-osxZiUpufEDTGQqH2499blcMJH8O8V-lI=&xsec_source=pc_user"
+    },
+    {
+     "index": 115,
+     "title": "爱女儿如养花，爸爸就是最好的花匠",
+     "likes": 5344,
+     "likes_raw": "5344",
+     "date": "2025-03-10",
+     "url": "https://www.xiaohongshu.com/explore/67cecc1d000000000e005d7d?xsec_token=ABl-zAJFkt-Si_cKBTBQyGv-GJGJwxkD2R9xzf4qJK6X0=&xsec_source=pc_user"
+    },
+    {
+     "index": 119,
+     "title": "错峰带娃后，我们家越来越和谐了",
+     "likes": 346,
+     "likes_raw": "346",
+     "date": "2025-02-23",
+     "url": "https://www.xiaohongshu.com/explore/67b7e2a4000000000903a02c?xsec_token=ABq0xmOqEI74cHhmqq9ynjMb137meAKcn-BqddpSXf9tU=&xsec_source=pc_user"
+    },
+    {
+     "index": 47,
+     "title": "很多人帮忙带孩子，但是我反而更累了",
+     "likes": 327,
+     "likes_raw": "327",
+     "date": "2026-03-01",
+     "url": "https://www.xiaohongshu.com/explore/69a42674000000002303a860?xsec_token=ABWe6Cfld9Xa2gmDNdYZg9b9xyVaLeDwA5-aDlZc0pHFY=&xsec_source=pc_user"
+    },
+    {
+     "index": 39,
+     "title": "我觉得我会永远感谢我婆婆",
+     "likes": 237,
+     "likes_raw": "237",
+     "date": "2026-04-10",
+     "url": "https://www.xiaohongshu.com/explore/69d7b2b3000000002300466e?xsec_token=ABqqoIzetOHdE-MH4s87uekn2EdGVH7uVIxnY93626naA=&xsec_source=pc_user"
+    },
+    {
+     "index": 73,
+     "title": "良好的婆媳关系真的存在吗？！",
+     "likes": 196,
+     "likes_raw": "196",
+     "date": "2025-10-16",
+     "url": "https://www.xiaohongshu.com/explore/68ef67b100000000070210ca?xsec_token=ABlcgbN9yEcPPZ3QcOEbKtLRgaChXB6HXczYWdw9Gldgk=&xsec_source=pc_user"
+    },
+    {
+     "index": 145,
+     "title": "凭什么要对婆婆好啊",
+     "likes": 144,
+     "likes_raw": "144",
+     "date": "2024-12-07",
+     "url": "https://www.xiaohongshu.com/explore/67542778000000000603abd8?xsec_token=ABpOoGKhPYgjZNJaBDa3_qk1VkKBmE3S0EgWtzDPQctf4=&xsec_source=pc_user"
+    },
+    {
+     "index": 96,
+     "title": "婆婆带孩子回老家了，本担心她会不适应",
+     "likes": 124,
+     "likes_raw": "124",
+     "date": "2025-07-05",
+     "url": "https://www.xiaohongshu.com/explore/686907210000000011003f02?xsec_token=AB1G3ZFMNTFw9hztIr5Kihg9we6MHJJ5gV6xrjtrlmOIE=&xsec_source=pc_user"
+    },
+    {
+     "index": 139,
+     "title": "我发现男人才是顶级的育儿专家",
+     "likes": 44,
+     "likes_raw": "44",
+     "date": "2024-12-28",
+     "url": "https://www.xiaohongshu.com/explore/676fd5fe00000000130085f0?xsec_token=ABzme4EF9s8rXcZR9uGPUbxGk1fMDpRP5gLsW_6rMs-Ps=&xsec_source=pc_user"
+    },
+    {
+     "index": 118,
+     "title": "一定要尊重妈妈的育儿主权",
+     "likes": 41,
+     "likes_raw": "41",
+     "date": "2025-02-24",
+     "url": "https://www.xiaohongshu.com/explore/67b7e3a300000000070355fc?xsec_token=ABq0xmOqEI74cHhmqq9ynjMWhgVm_5-ySBD8ciDPki8Jw=&xsec_source=pc_user"
+    },
+    {
+     "index": 155,
+     "title": "亲疏有度，远近相安",
+     "likes": 35,
+     "likes_raw": "35",
+     "date": "2024-11-20",
+     "url": "https://www.xiaohongshu.com/explore/673d56d80000000008007614?xsec_token=ABF1qkvnkNHIPEafD37i-x7wDEXWxI5zZJp28ZyK6v908=&xsec_source=pc_user"
+    },
+    {
+     "index": 132,
+     "title": "婆媳该怎么相处",
+     "likes": 32,
+     "likes_raw": "32",
+     "date": "2025-01-18",
+     "url": "https://www.xiaohongshu.com/explore/6789c091000000001601898d?xsec_token=ABbZfvb9bd8cOcifKYrgAjxsXLlMIEUlEfBcu82ie23C0=&xsec_source=pc_user"
+    }
+   ]
+  },
+  {
+   "key": "money",
+   "theme": "金钱观与延迟满足",
+   "statement": "让孩子看见“钱从哪里来”，用现金和固定购物日学会取舍。",
+   "reasoning": "数字支付让孩子以为钱来自手机屏幕；亲手付钱、等待会拉长欲望周期。",
+   "tips": [
+    "带孩子卖纸箱，体验劳动换钱（7.5 元）",
+    "出门带现金，给透明钱包让孩子自己支配",
+    "设“周五零食日”"
+   ],
+   "quotes": [
+    {
+     "note": 57,
+     "title": "我发现要想让孩子珍惜花钱，得先给她钱",
+     "url": "https://www.xiaohongshu.com/explore/695399c6000000001e021861?xsec_token=ABz4hO2VR_2Wa47d2I7zRbVLxGyYAdlvvnDD9P8oWLhEI=&xsec_source=pc_user",
+     "text": "孩子眼里的钱，只有屏幕上那个变动的数字",
+     "source": "文字稿"
+    },
+    {
+     "note": 25,
+     "title": "是不是孩子都对金钱从哪里来没有概念",
+     "url": "https://www.xiaohongshu.com/explore/6a2b780c000000003502b617?xsec_token=ABA1xRWTO9yIY9isTGdl5Rj_4FU6JaC-yReuTf2_3vSMQ=&xsec_source=pc_user",
+     "text": "最后一共卖了七块五毛钱。",
+     "source": "文字稿"
+    }
+   ],
+   "note_count": 2,
+   "total_likes": 8239,
+   "top_note": {
+    "index": 57,
+    "title": "我发现要想让孩子珍惜花钱，得先给她钱",
+    "likes": 5350,
+    "likes_raw": "5350",
+    "date": "2025-12-30",
+    "url": "https://www.xiaohongshu.com/explore/695399c6000000001e021861?xsec_token=ABz4hO2VR_2Wa47d2I7zRbVLxGyYAdlvvnDD9P8oWLhEI=&xsec_source=pc_user"
+   },
+   "notes": [
+    {
+     "index": 57,
+     "title": "我发现要想让孩子珍惜花钱，得先给她钱",
+     "likes": 5350,
+     "likes_raw": "5350",
+     "date": "2025-12-30",
+     "url": "https://www.xiaohongshu.com/explore/695399c6000000001e021861?xsec_token=ABz4hO2VR_2Wa47d2I7zRbVLxGyYAdlvvnDD9P8oWLhEI=&xsec_source=pc_user"
+    },
+    {
+     "index": 25,
+     "title": "是不是孩子都对金钱从哪里来没有概念",
+     "likes": 2889,
+     "likes_raw": "2889",
+     "date": "2026-06-12",
+     "url": "https://www.xiaohongshu.com/explore/6a2b780c000000003502b617?xsec_token=ABA1xRWTO9yIY9isTGdl5Rj_4FU6JaC-yReuTf2_3vSMQ=&xsec_source=pc_user"
+    }
+   ]
+  },
+  {
+   "key": "food",
+   "theme": "喂养与健康（清淡养脾胃，评论争议大）",
+   "statement": "饮食做减法、户外做加法；不盲目追求高蛋白和身高体重。",
+   "reasoning": "她家孩子吃多高蛋白后反复积食，改回清淡饮食和增加运动后好转（个人经验，非医学建议）。",
+   "tips": [
+    "晚饭早、清淡易消化",
+    "增加每天户外活动时长",
+    "不追着喂，饿了自然会吃"
+   ],
+   "quotes": [
+    {
+     "note": 106,
+     "title": "真的可以试试，万一管用呢",
+     "url": "https://www.xiaohongshu.com/explore/67ebd509000000001c00c1ce?xsec_token=ABaiYX3IglIgWKd3k3I8avkCLk1_aAHID9RwwAXJej7I8=&xsec_source=pc_user",
+     "text": "饮食上一定做减法，户外活动上做加法",
+     "source": "文字稿"
+    },
+    {
+     "note": 156,
+     "title": "给孩子养好脾胃真的是一个艰难而漫长的过程",
+     "url": "https://www.xiaohongshu.com/explore/672f59dd000000001b02ec60?xsec_token=ABRBkcjK4VWjFOzeQE8nfc_2xhhKyFQmQ-QUF8hbBtvJw=&xsec_source=pc_user",
+     "text": "所以并不是吃的越多越好",
+     "source": "文字稿"
+    }
+   ],
+   "note_count": 6,
+   "total_likes": 6166,
+   "top_note": {
+    "index": 156,
+    "title": "给孩子养好脾胃真的是一个艰难而漫长的过程",
+    "likes": 5930,
+    "likes_raw": "5930",
+    "date": "2024-11-09",
+    "url": "https://www.xiaohongshu.com/explore/672f59dd000000001b02ec60?xsec_token=ABRBkcjK4VWjFOzeQE8nfc_2xhhKyFQmQ-QUF8hbBtvJw=&xsec_source=pc_user"
+   },
+   "notes": [
+    {
+     "index": 156,
+     "title": "给孩子养好脾胃真的是一个艰难而漫长的过程",
+     "likes": 5930,
+     "likes_raw": "5930",
+     "date": "2024-11-09",
+     "url": "https://www.xiaohongshu.com/explore/672f59dd000000001b02ec60?xsec_token=ABRBkcjK4VWjFOzeQE8nfc_2xhhKyFQmQ-QUF8hbBtvJw=&xsec_source=pc_user"
+    },
+    {
+     "index": 111,
+     "title": "坚持用老祖宗的方式养孩子",
+     "likes": 62,
+     "likes_raw": "62",
+     "date": "2025-03-17",
+     "url": "https://www.xiaohongshu.com/explore/67d7f39b000000000d0162b8?xsec_token=ABgMz9_tq9L1cYBCJQdaMwXSu2u3N_yvticWOvQY6PT9o=&xsec_source=pc_user"
+    },
+    {
+     "index": 137,
+     "title": "带娃这些年，还是要跟自己和解",
+     "likes": 52,
+     "likes_raw": "52",
+     "date": "2025-01-02",
+     "url": "https://www.xiaohongshu.com/explore/67766886000000000b0215c8?xsec_token=ABMznxuNCovc8fjqHtAfy01RsI6u_cu5hI0Cw6zd3Obyg=&xsec_source=pc_user"
+    },
+    {
+     "index": 106,
+     "title": "真的可以试试，万一管用呢",
+     "likes": 50,
+     "likes_raw": "50",
+     "date": "2025-04-03",
+     "url": "https://www.xiaohongshu.com/explore/67ebd509000000001c00c1ce?xsec_token=ABaiYX3IglIgWKd3k3I8avkCLk1_aAHID9RwwAXJej7I8=&xsec_source=pc_user"
+    },
+    {
+     "index": 135,
+     "title": "因为怕她感冒，不敢带她出门",
+     "likes": 40,
+     "likes_raw": "40",
+     "date": "2025-01-08",
+     "url": "https://www.xiaohongshu.com/explore/677e50f2000000000b036453?xsec_token=ABeI8_0CSS1KtpsY5BW8ySu6wOwMA_h0naJtk8o-IvYFA=&xsec_source=pc_user"
+    },
+    {
+     "index": 140,
+     "title": "跟“科学喂养”和“精细喂养”和解的一天",
+     "likes": 32,
+     "likes_raw": "32",
+     "date": "2024-12-26",
+     "url": "https://www.xiaohongshu.com/explore/676d3de0000000001300398d?xsec_token=ABZ0N5SviJa_DW4a7t_iOwymbHbS8BELGzW4dxkLyYsfk=&xsec_source=pc_user"
+    }
+   ]
+  },
+  {
+   "key": "game",
+   "theme": "游戏化沟通：装傻、示弱、给选择",
+   "statement": "用游戏和求助代替命令，让孩子主动去做。",
+   "reasoning": "直接命令会引起抵触；装傻、示弱让孩子变成主动的一方。",
+   "tips": [
+    "收玩具说成“小汽车要回停车场了”",
+    "读绘本时故意读错，让孩子来讲",
+    "不想刷牙时先给玩偶刷牙"
+   ],
+   "quotes": [
+    {
+     "note": 75,
+     "title": "怎么突然发现，你干预的越多，孩子越难带了",
+     "url": "https://www.xiaohongshu.com/explore/68edf2c0000000000402219a?xsec_token=AB0yhQB6oUEbE9_PUJlSQuxUa-W3sjeuIJmXAG8USOHWc=&xsec_source=pc_user",
+     "text": "所以他的做法是装傻或者示弱，把指令变成游戏或者求助。",
+     "source": "文字稿"
+    },
+    {
+     "note": 113,
+     "title": "婆婆：带娃还得用套路",
+     "url": "https://www.xiaohongshu.com/explore/67d17512000000002902c202?xsec_token=ABUBjTx6xuPo6PRB5d9HoNs162pa094V7nPwkzrWYq9Yk=&xsec_source=pc_user",
+     "text": "特别喜欢用游戏的方式来达到他的某种目的",
+     "source": "文字稿"
+    }
+   ],
+   "note_count": 5,
+   "total_likes": 4830,
+   "top_note": {
+    "index": 81,
+    "title": "我婆婆很会拿捏孩子，来达到自己的目的",
+    "likes": 2459,
+    "likes_raw": "2459",
+    "date": "2025-09-08",
+    "url": "https://www.xiaohongshu.com/explore/68bec1ed000000001d0367b0?xsec_token=ABbeHlvQIBkd2Cy6tDvrVXoORko8f8o-Nn3w1HQT5BZb8=&xsec_source=pc_user"
+   },
+   "notes": [
+    {
+     "index": 81,
+     "title": "我婆婆很会拿捏孩子，来达到自己的目的",
+     "likes": 2459,
+     "likes_raw": "2459",
+     "date": "2025-09-08",
+     "url": "https://www.xiaohongshu.com/explore/68bec1ed000000001d0367b0?xsec_token=ABbeHlvQIBkd2Cy6tDvrVXoORko8f8o-Nn3w1HQT5BZb8=&xsec_source=pc_user"
+    },
+    {
+     "index": 75,
+     "title": "怎么突然发现，你干预的越多，孩子越难带了",
+     "likes": 1811,
+     "likes_raw": "1811",
+     "date": "2025-10-14",
+     "url": "https://www.xiaohongshu.com/explore/68edf2c0000000000402219a?xsec_token=AB0yhQB6oUEbE9_PUJlSQuxUa-W3sjeuIJmXAG8USOHWc=&xsec_source=pc_user"
+    },
+    {
+     "index": 50,
+     "title": "让孩子成为自己生活的管理者。",
+     "likes": 387,
+     "likes_raw": "387",
+     "date": "2026-02-07",
+     "url": "https://www.xiaohongshu.com/explore/69871dea000000001503a031?xsec_token=ABijjkbsjKJtDAsC1bT75EedjW65MP8OoPYkUC_PAKBJg=&xsec_source=pc_user"
+    },
+    {
+     "index": 157,
+     "title": "有一个很懂育儿的婆婆是一种什么体验",
+     "likes": 135,
+     "likes_raw": "135",
+     "date": "2024-11-05",
+     "url": "https://www.xiaohongshu.com/explore/6729fac40000000019016c77?xsec_token=ABfi_8ezVWxMOdsj5o0wOAG--m_n4DqORrTbGTHy2xfDw=&xsec_source=pc_user"
+    },
+    {
+     "index": 113,
+     "title": "婆婆：带娃还得用套路",
+     "likes": 38,
+     "likes_raw": "38",
+     "date": "2025-03-12",
+     "url": "https://www.xiaohongshu.com/explore/67d17512000000002902c202?xsec_token=ABUBjTx6xuPo6PRB5d9HoNs162pa094V7nPwkzrWYq9Yk=&xsec_source=pc_user"
+    }
+   ]
+  }
+ ]
+}
