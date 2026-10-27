@@ -5,6 +5,13 @@
  "noteId": "67bee0a1000000002901b259",
  "url": "https://www.xiaohongshu.com/explore/67bee0a1000000002901b259?xsec_token=ABwa4WpVbKZ63KdGXhKbt1TtcZFARVJ3Cgk53Q8_PlPk0=&xsec_source=pc_user",
  "type": "video",
- "status": "failed",
- "error": "ERROR: [XiaoHongShu] 67bee0a1000000002901b259: Unable to extract initial state; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+ "yt_title": "XiaoHongShu video #67bee0a1000000002901b259",
+ "description": "喝100块以内的奶粉太正常了，我们都是平常人，没有对不起孩子，宝妈宝妈们千万不要愧疚！",
+ "tags": [],
+ "duration": 47.183,
+ "publish_ms": 1740562593000,
+ "ip_location": null,
+ "publish_date": "2025-02-26",
+ "asr_seconds": 2.3,
+ "status": "ok"
 }
