@@ -1,0 +1,27 @@
+# 从Claude Tag聊聊agent交互界面的变化
+
+- 点赞：1575
+- 发布：2026-08-04
+- 链接：https://www.xiaohongshu.com/explore/6a716cf80000000028006ff8
+
+## 简介
+未来应该是agent来我熟悉的界面来找我
+
+## 文字稿
+我昨天正好在看那个anthroropic的一个人的播客，然后这个anthropic员工就是说大家知不知道cloud tag这个产品对我觉得cloud c是在中国非常被低估的产品。然后他不知道cloud pig的人，简单一句话介绍一下到底什么是cod.他就是把cloud cloud和cloud d agagent能力无缝d集成到了slack里面。
+
+然后他说anthropic现在内部的产研的所有的pull request有百分之六十五，都已经是cloud tag提的。嗯，也就是说cloud teg已经非常深度的融入到了他们日常的工作流里。甚至我觉得他们很多员工因为有了cloud g，他就不用开clck code了。我觉得anthropic再往这个方向走，就是他们不用自己打开cloud code，他可以直接在slack里完成很多工工的闭环。
+
+而他还分享说，因为这个他们会有很多在群里的工作的接力。比如说一个产品，他可以直接在一个thread里面去跟cloud提一个需求。然后cloud可能做了一个原型，然后他可以去艾特计同学，在下面没给原型提一些反馈。然后设计确认完之后，直接艾特研发去开发。这整个这个事儿就在一个slack的thread里就完成了。
+
+对他不需要去开很多clock ck的session啊等等。所以我觉得这个是未来的趋势。这个就引发我想到说我我们跟a站交互的界面在发生什么样的变化。我想起一月份，我刚开始用clock ck的时候，我是在terminal里面用的。嗯，那个时候我作为一个文科生，我这辈子都没有打开过terminal，我还要去学什么，是个terminal，然后还很不习惯。
+
+一开始因为那个时候只有terminal，然后后来大概三四月份的时候才开始有客户端，就是桌面版的app啊，然后包括code x的客户端做的特别好。所以我可能四五月份我就大部分都迁移到了codex的客户端，但是terminal就不怎么打开了，然后这个会友好很多。然后又到了六七月份，有了飞书CRY，有了这些集成的东西，我就把code x集成到飞书里了。
+
+然后我的客户端也打开的少了，所以我越来越多工作可以直接在飞书里完成。所以我的整个一个演变就是从terminal到客户端到飞书。嗯，然后一步一步我觉得它是更接近我们自然和熟悉的工作界面的。就我本来就不应该去学一个terminal，他就不make sense.我最熟悉的界面就是飞书，我就是只要像找人一样的去去找code x就好了。
+
+嗯，所以我觉得尤其是当我们想让非研发的团队怎么把agent用好。首先我觉得coding agents等于general agents.这个这个认知是我觉得硅谷一二月份大家就有这个认知，就是coding agents are a general agent.一切知识工作都理论上，可以用coding agent来完成和提效。
+
+如果coding agent等于general agent，那么未来coding agent的主要用户将是非程序员，就是未来用cold agent的非程序员，一定是远远大于程序员的数量的那所以如果绝大部分用colling age的人不是程序员，那他就肯定不应该在terminal里用。嗯，他不会去学terminal的，对他甚至不应该去单独下一个app.他就是本来在哪儿就在哪儿就好了。
+
+就是agent应该去找他，而不是让他去找agent.我觉得应该让a阵融入我们已经熟悉的各种工作和界面，而不是强迫我去下一个新的app，学一个新的产品。
