@@ -1,0 +1,132 @@
+{
+  "meta": {
+    "status": "初稿",
+    "ai_era_comments": 292,
+    "note": "评论未全量；每篇最多约20条一级热评"
+  },
+  "clusters": [
+    {
+      "key": "tool_choice",
+      "name": "工具选型与门槛",
+      "coverage": "部分覆盖",
+      "related_notes": [
+        31,
+        56,
+        57,
+        94
+      ],
+      "gap_note": "缺小白安装清单与月费对照；大陆登录支付未解"
+    },
+    {
+      "key": "sell_course_doubt",
+      "name": "卖课/割韭菜质疑",
+      "coverage": "争议",
+      "related_notes": [
+        40,
+        73,
+        93,
+        96,
+        97
+      ],
+      "gap_note": "承认卖课但缺非课程结果矩阵"
+    },
+    {
+      "key": "collect_addiction",
+      "name": "收藏成瘾与行动瘫痪",
+      "coverage": "已覆盖",
+      "related_notes": [
+        97,
+        105,
+        111
+      ],
+      "gap_note": "行动型用户需更短checklist"
+    },
+    {
+      "key": "autopilot_fantasy",
+      "name": "一键自动化幻想与AI焦虑",
+      "coverage": "已覆盖",
+      "related_notes": [
+        33,
+        73,
+        94
+      ],
+      "gap_note": "仍缺海外自动化等具体链路答"
+    },
+    {
+      "key": "writing_ops",
+      "name": "写作/知识库落地细节",
+      "coverage": "部分覆盖",
+      "related_notes": [
+        98,
+        111,
+        112,
+        15
+      ],
+      "gap_note": "飞书容量/竞品对比/无外网"
+    },
+    {
+      "key": "skill_ops",
+      "name": "Skill沉淀操作细节",
+      "coverage": "部分覆盖",
+      "related_notes": [
+        93,
+        66,
+        49
+      ],
+      "gap_note": "全局skill与文件夹步骤未讲清"
+    },
+    {
+      "key": "privacy",
+      "name": "隐私与泄密",
+      "coverage": "缺口",
+      "related_notes": [
+        12,
+        107,
+        94
+      ],
+      "gap_note": "#12脱敏有了，本地部署与平台训练疑虑弱"
+    },
+    {
+      "key": "industry_transfer",
+      "name": "行业迁移落地",
+      "coverage": "缺口",
+      "related_notes": [
+        106,
+        2,
+        44
+      ],
+      "gap_note": "作者承认不懂对方业务"
+    },
+    {
+      "key": "edit_stack",
+      "name": "剪辑工作流具体栈",
+      "coverage": "部分覆盖",
+      "related_notes": [
+        64,
+        19,
+        55
+      ],
+      "gap_note": "演示强、可复现清单弱"
+    },
+    {
+      "key": "deep_water_debate",
+      "name": "是否必须进深水区",
+      "coverage": "争议",
+      "related_notes": [
+        40,
+        73
+      ],
+      "gap_note": "评论两极，难靠单视频关闭"
+    }
+  ],
+  "unanswered_questions": [
+    "Codex大陆登录支付怎么办？",
+    "上下文占用百分比在哪看？40%降智？",
+    "Skill全局设置与保存步骤？",
+    "飞书vs Notion容量与无外网？",
+    "海外社区自动化发帖工具链？",
+    "本地部署隐私是否共享？",
+    "不方便发朋友圈时写作系统改道？",
+    "AI剪辑可复现工具清单？"
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "meta": {
+    "status": "初稿",
+    "notes_list_total": 200,
+    "transcripts_used": 74,
+    "comment_files": 31,
+    "ai_era_comments_used": 292,
+    "scope": "AI/一人公司/超级个体/Codex/自媒体变现；早期AIGC绘画降权",
+    "classification_note": "文字稿归纳+热评人工聚类；单一主标签；高赞无转写笔记用标题/评论侧证"
+  },
+  "themes": [
+    {
+      "key": "writing_system",
+      "theme": "写作系统、表达与戒掉收藏",
+      "statement": "收藏≠学习；建立记录→整理→输出系统；口喷+AI访谈成文。",
+      "notes": [
+        21,
+        28,
+        48,
+        72,
+        35,
+        97,
+        105,
+        111,
+        112,
+        100,
+        98,
+        106
+      ],
+      "likes_sum": 23142
+    },
+    {
+      "key": "super_individual",
+      "theme": "超级个体/核心竞争力",
+      "statement": "练元能力与判断；不做一键自动化幻象；马太效应强于平权愿景。",
+      "notes": [
+        107,
+        96,
+        104
+      ],
+      "likes_sum": 10989
+    },
+    {
+      "key": "anti_autopilot",
+      "theme": "反对跟风自动化与垃圾内容",
+      "statement": "一键自动化是坑；多数人别跟风龙虾；拒绝垃圾口播矩阵。",
+      "notes": [
+        33,
+        38,
+        70,
+        73,
+        94,
+        96
+      ],
+      "likes_sum": 8433
+    },
+    {
+      "key": "codex_workflow",
+      "theme": "Codex/桌面端工作流与Skill",
+      "statement": "上下文质量+Skill/SOP拉开差距；分叉；沉淀对话。",
+      "notes": [
+        19,
+        31,
+        42,
+        49,
+        52,
+        55,
+        56,
+        64,
+        66,
+        74,
+        45,
+        47,
+        53
+      ],
+      "likes_sum": 5698
+    },
+    {
+      "key": "amplifier_logic",
+      "theme": "AI放大器与底层逻辑",
+      "statement": "学的是业务手感不是追工具；AI放大非零的人。",
+      "notes": [
+        2,
+        33,
+        40,
+        63,
+        67,
+        73,
+        23,
+        37
+      ],
+      "likes_sum": 977
+    },
+    {
+      "key": "record_tacit",
+      "theme": "记录与隐性知识",
+      "statement": "大量记录所说所思；AI挖隐性知识与叙事卡。",
+      "notes": [
+        14,
+        48,
+        66,
+        49,
+        62
+      ],
+      "likes_sum": 1000
+    },
+    {
+      "key": "opc_company",
+      "theme": "一人公司关键在公司",
+      "statement": "公司逻辑+杠杆+复利；知识付费启动；一对多。",
+      "notes": [
+        3,
+        29,
+        34,
+        39,
+        71,
+        73,
+        18,
+        36
+      ],
+      "likes_sum": 711
+    },
+    {
+      "key": "paid_cycle",
+      "theme": "知识付费与穿越周期",
+      "statement": "底层逻辑抗周期；省钱买自由；线下卖能量。",
+      "notes": [
+        1,
+        2,
+        9,
+        25,
+        29,
+        58
+      ],
+      "likes_sum": 250
+    },
+    {
+      "key": "judgment",
+      "theme": "判断力与独立决策",
+      "statement": "多做独立决定；底层逻辑+踩坑+专家借判断。",
+      "notes": [
+        18,
+        23,
+        13,
+        32
+      ],
+      "likes_sum": 152
+    },
+    {
+      "key": "code_leverage",
+      "theme": "编程杠杆与数据脱敏",
+      "statement": "AI写代码撬本地算力；假数据同结构脱敏。",
+      "notes": [
+        11,
+        12,
+        16,
+        17,
+        4
+      ],
+      "likes_sum": 133
+    },
+    {
+      "key": "consistency_media",
+      "theme": "自洽开源与自媒体杠杆",
+      "statement": "做=分享=卖；表达欲优先；开源过程获信任。",
+      "notes": [
+        3,
+        28,
+        72,
+        39,
+        34
+      ],
+      "likes_sum": 176
+    }
+  ]
+}
